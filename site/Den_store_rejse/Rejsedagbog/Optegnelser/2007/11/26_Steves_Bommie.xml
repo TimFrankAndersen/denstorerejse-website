@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:25:53 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Great Barrier Reef</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Steves Bommie</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mandag den 26. november 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="26_Steves_Bommie_files/shapeimage_1.png" left="0px" top="0px" width="419px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Kl. er 5.40 - rimelig tidligt, men jeg har ingen problemer med at komme ud af k&#xF8;jen. Helt ekstraordin&#xE6;rt har vi nemlig f&#xE5;et lov til at dykke p&#xE5; et af Great Barrier Reefs bedste sites. Stedet hedder Steves Bommie, opkaldt efter en dykker der d&#xF8;de her i slutningen af firserne fordi han eksperimenterede med nitrox. Det er et dybt dyk, ca 30 m. Selve stedet er et lille undervandsbjerg, der stikker op fra havbunden, uden at der er andet en sand rundt omkring. Der er rigtig langt til land og til andre ting, og det giver ideelle muligheder for et rigt fiskeliv. Vi er fire afsted: to instrukt&#xF8;rer og to g&#xE6;ster og fordi vi er her s&#xE5; tidligt er der ingen andre dykkere - vild luksus. Vi ruller bagl&#xE6;ns ud over r&#xE6;lingen p&#xE5; gummib&#xE5;den og et &#xF8;jeblik efter befinder vi os i en magisk undervandsverden befolket af tusindvis af fisk. Fordi dykket er s&#xE5; dybt, g&#xE5;r vi hurtigt til bunden som vi hele tiden kan se, da sigtbarheden er fantastisk.&#xD;&#xD;&#xD;Vi v&#xE6;kker en haj, der sv&#xF8;mmer v&#xE6;k, da vi n&#xE6;rmer os. Dykket er suver&#xE6;nt. Her er barracudaer, store stimer af tun agtige fisk kaldet trevalleys. Vi ser krebs og andre skaldyr, flotte lionfish, dansende undervandsorme og de smukkeste koralformationer.&#xD;&#xD;Tilbage p&#xE5; b&#xE5;den er der h&#xF8;j stemning over den fine oplevelse. Vi sejler videre og ankrer op ved Ribbonreef no. 3 og jeg napper et dyk mere - turens sidste. Det er ogs&#xE5; smukt omend noget mere roligt og slet ikke s&#xE5; dybt. Senere tager vi videre til turens sidste stop: Escape Reef. Her snorkler b&#xE5;de Camilla og jeg og igen er det storsl&#xE5;et flot.&#xD;&#xD;Hen under aften ankrer vi op ved double Island ud for Cairns. Turen er ved at v&#xE6;re slut og det har v&#xE6;ret alletiders naturoplevelse for os alle fire!</richText>
+  </textBox>
+</content>

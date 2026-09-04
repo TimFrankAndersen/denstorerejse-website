@@ -1,0 +1,23 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "outputDirectory": "site",
+  "cleanUrls": false,
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/", "destination": "/Den_store_rejse/Velkommen.html", "permanent": true },
+    { "source": "/index.html", "destination": "/Den_store_rejse/Velkommen.html", "permanent": true },
+    { "source": "/Den_store_rejse", "destination": "/Den_store_rejse/Velkommen.html", "permanent": true },
+    { "source": "/Den_store_rejse/index.html", "destination": "/Den_store_rejse/Velkommen.html", "permanent": true }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)\\.(jpg|jpeg|png|gif|mp4)",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }]
+    },
+    {
+      "source": "/(.*)\\.(css|js)",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=86400" }]
+    }
+  ]
+}

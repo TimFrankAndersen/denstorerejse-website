@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:59 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Maoridans</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vi har bes&#xF8;gt en landsby, hvor de folk der har boet p&#xE5; New Zealand i l&#xE6;ngst tid - Maorier, hedder de, viser dans, v&#xE6;vning og hvordan de sk&#xE6;rer i tr&#xE6;. &#xD;Vi blev m&#xF8;dt af en prinsesse med langt m&#xF8;rkt h&#xE5;r, og s&#xE5; skulle vi l&#xE6;rer at sige goddag med n&#xE6;sen. Bagefter kom krigerne, de s&#xE5; meget farlige ud, for de dansede med tungen ude af munden og de gjorde deres &#xF8;jne s&#xE5; store som tekopper for at g&#xF8;re fjenden bange. De spillede p&#xE5; nogle store konkylier, det var flot.&#xD;Indenfor i deres m&#xF8;dehus, hvor vi ikke m&#xE5;tte have sko eller hatte p&#xE5;, kom jeg op p&#xE5; scenen for at l&#xE6;re en dans, som pigerne dansede med nogle runde bolde med snore i :Pai. Det var sv&#xE6;rt, men pigerne var bare s&#xE5; flotte med bastsk&#xF8;rter og kapper med fuglefjer. &#xD;De sang ogs&#xE5; en sang om en forelsket prinsesse, der sv&#xF8;mmede over en s&#xF8; til hendes k&#xE6;reste. Det var om natten, og det eneste, der kunne hj&#xE6;lpe hende med at finde vej, var hans flotte sang. &#xD;Til sidst blev der danset krigsdans, og far s&#xE5; ret sjov ud, da han skulle l&#xE6;re at r&#xE6;kke tunge.&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;mandag den 10. marts 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="10_Maoridans_files/shapeimage_1.png" left="0px" top="0px" width="496px" height="372px"/>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:12 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Mount Cook - Tasman gletcheren</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>En tur p&#xE5; m&#xE5;nen</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mandag den 21. januar 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="21_En_tur_pa_manen_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vi er k&#xF8;rt de sidste 25 km op til selve Mount Cook by. Vi er taget herop for at g&#xE5; et par ture i det meget golde landskab. Den ene tur f&#xF8;rer til Lake Tasman, som skulle v&#xE6;re fuld af isbjerge, p&#xE5; trods af at her er 27 grader varmt. Den anden tur f&#xF8;rer op til et udsigtspunkt, hvor man kan se den k&#xE6;mpestore Tasman Gletcher.&#xD;&#xD;Vi v&#xE6;lger at g&#xE5; mod s&#xF8;en, da ingen af os har set isbjerge f&#xF8;r. Turen er berammet til ca. 50 minutter, og vi g&#xE5;r rask til. Vi kommer igennem noget der mest minder om et m&#xE5;nelandskab. Her er meget &#xF8;de, og lutter sten. men pludselig &#xE5;benbarer s&#xF8;en sig foran os, og den er god nok, her er masser af isbjerge. P&#xE5; vejen hjem vil Viola op og klatre, og moderen halser efter.&#xD;&#xD;Vi er ikke helt flade endnu, s&#xE5; da vi kommer tilbage til skillevejen, g&#xE5;r Viola og jeg op til toppen for at se gletcheren, mens Camilla og Stella g&#xE5;r tilbage til bilen for at bade i en smeltevandsflod. Det viser sig at v&#xE6;re en ret barsk opstigning, men Viola klarer det flot. Vi f&#xE5;r set s&#xF8;en igen og gletcheren med, inden vi vandrer ned igen.&#xD;&#xD;Sir Edmund Hillary, har et museum i byen, og vi tager ind for at se det samt det ber&#xF8;mte Hermitage Hotel. men vi er for sent p&#xE5; den, og ender med aftensmad p&#xE5; &#x201C;The Old Mountaneer Caf&#xE9;&#x201D;. Sir Hillary skal begraves i morgen, og byen er i sorg. Diverse TV stationer har sl&#xE5;et deres satellit vogne op i byen for at transmittere fra den store mindeh&#xF8;jtidelighed, der skal v&#xE6;re her i morgen. Alle vegne er der billeder og minder fra hans storhedstid som bjergklatrer.&#xD;&#xD;Vi er godt flade, da vi lander tilbage p&#xE5; campingpladsen, mens solen g&#xE5;r ned over bjergene. Det har v&#xE6;ret en fin dag!</richText>
+  </textBox>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:25:43 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>36 timer til afgang...</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Velkommen her p&#xE5; bloggen</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>tirsdag den 30. oktober 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_Velkommen_her_pa_bloggen_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="253px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Nu er det lige oppe over. De sidste arbejdsopgaver er afsluttet, og fra nu af kan vi koncentrere os om det projekt, vi har forberedt i et &#xE5;rs tid: vores store rejse jorden rundt!&#xD;&#xD;Vi vil - n&#xE5;r tiden er til det og Internetguderne er med os - skrive om vores daglige oplevelser - gode s&#xE5;vel som d&#xE5;rlige. Vi vil dele vores erfaringer, vi vil vise nogle af vores bedste billeder og kommentere stort og sm&#xE5;t. Vi h&#xE5;ber til geng&#xE6;ld at f&#xE5; masser af kommentarer, sp&#xF8;rgsm&#xE5;l og hilsner hjemmefra.&#xD;&#xD;Om under 2 d&#xF8;gn sidder vi i flyveren og kan l&#xE6;gge alle bekymringer og forberedelser bag os og i stedet koncentrere os om 152 dages eventyr, men lige nu har vi bare sommerfugle i maven, mens vi sm&#xE5;forvirrede render og tjekker lister, mens vi forg&#xE6;ves pr&#xF8;ver at komme i tanke om ting, vi kan have glemt. Det kan nok ikke v&#xE6;re anderledes :)&#xD;&#xD;/Tim&#xD;&#xD;</richText>
+  </textBox>
+</content>

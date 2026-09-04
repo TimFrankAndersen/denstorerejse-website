@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:25:44 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>N&#xE5;r det regner i Thailand, s&#xE5; er det alvor</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>1. destination - Krabi</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>fredag den 2. november 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="2_1._destination_-_Krabi_files/shapeimage_1.png" left="0px" top="0px" width="364px" height="223px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Efter at have rejst i ca. 14 timer er vi endelig fremme ved vores f&#xF8;rste stop. Her skal vi v&#xE6;re en uges tid, og v&#xE6;nne os til tanken om at vi nu er p&#xE5; rejse.&#xD;&#xD;Vores gode venner: Michael og Dorthe er taget herned p&#xE5; ferie, s&#xE5; da vi kommer sejlende ind mod stranden, tager de imod os sammen med deres to drenge: oliver og Nikolai, der er rigtig gode legekammerater med Viola og Stella. vi skal v&#xE6;re sammen de n&#xE6;ste 5 dage og det er en fin m&#xE5;de at starte ud med, for b&#xF8;rnene kan lege sammen mens de v&#xE6;nner sig til at v&#xE6;re v&#xE6;k hjemmefra, og vi har nogen at dele de f&#xF8;rste tanker med.&#xD;&#xD;Vejret ser ikke for godt ud hjemme fra, men den f&#xF8;rste dag ender med at blive rigtig fin. indtil kl. 17. For s&#xE5; bryder det vildeste regnvejr l&#xF8;s. og n&#xE5;r det regner hernede er det ikke for sjov. vi har dog regnfrakker med hjemmefra, s&#xE5; vi klarer den.&#xD;&#xD;Efter en lang og oplevelsesrig dag t&#xF8;rner vi ind. M&#xE6;tte af indtryk og d&#xF8;dtr&#xE6;tte :)</richText>
+  </textBox>
+</content>

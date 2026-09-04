@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Fotos fra vores rejse</title>
+    <link>/Den_store_rejse/Fotos_Australien/Fotos_Australien.html</link>
+    <description>Her finder du alle fotoalbum fra vores to måneders rundrejse i Australien.</description>
+    <item>
+      <title>Great Barrier Reef under vandet</title>
+      <link>/Den_store_rejse/Fotos_Australien/Sider/Great_Barrier_Reef_under_vandet.html</link>
+      <guid isPermaLink="false">75fa3ef7-2c72-4ee7-88ca-7148fa86873c</guid>
+    </item>
+    <item>
+      <title>Great Barrier Reef</title>
+      <link>/Den_store_rejse/Fotos_Australien/Sider/Great_Barrier_Reef.html</link>
+      <guid isPermaLink="false">c3500dfd-5976-4931-9029-ba68676214fe</guid>
+    </item>
+    <item>
+      <title>Cape Tribulation</title>
+      <link>/Den_store_rejse/Fotos_Australien/Sider/Cape_Tribulation.html</link>
+      <guid isPermaLink="false">f6d3b4a8-f1b4-4855-a832-eb10e12c356e</guid>
+    </item>
+    <item>
+      <title>The Red Center</title>
+      <link>/Den_store_rejse/Fotos_Australien/Sider/The_Red_Center.html</link>
+      <guid isPermaLink="false">5602bca1-009c-48d7-b436-2945ac174f38</guid>
+    </item>
+    <item>
+      <title>Kangaroo Island</title>
+      <link>/Den_store_rejse/Fotos_Australien/Sider/Kangaroo_Island.html</link>
+      <guid isPermaLink="false">f2b91472-2592-4fac-a2b9-2c053a405657</guid>
+    </item>
+    <item>
+      <title>Great Ocean Road</title>
+      <link>/Den_store_rejse/Fotos_Australien/Sider/Great_Ocean_Road.html</link>
+      <guid isPermaLink="false">62e8e974-0e2a-411d-b380-8bc782afcf6c</guid>
+    </item>
+    <item>
+      <title>Sydney</title>
+      <link>/Den_store_rejse/Fotos_Australien/Sider/Sydney.html</link>
+      <guid isPermaLink="false">de40538c-6122-4ccc-b8f8-4d43973054ac</guid>
+    </item>
+    <item>
+      <title>Heron Island</title>
+      <link>/Den_store_rejse/Fotos_Australien/Sider/Heron_Island.html</link>
+      <guid isPermaLink="false">31dbf8e3-362c-4cb1-a700-0d423742791e</guid>
+    </item>
+    <item>
+      <title>Heron Island under vandet</title>
+      <link>/Den_store_rejse/Fotos_Australien/Sider/Heron_Island_under_vandet.html</link>
+      <guid isPermaLink="false">7ddb376e-b8de-4688-9061-bb2983b71358</guid>
+    </item>
+    <item>
+      <title>Two Worlds - Fraser og O´Reillys</title>
+      <link>/Den_store_rejse/Fotos_Australien/Sider/Two_Worlds_-_Fraser_og_OReillys.html</link>
+      <guid isPermaLink="false">c356abc7-9a39-48ea-a0e0-f39e059664f5</guid>
+    </item>
+  </channel>
+</rss>

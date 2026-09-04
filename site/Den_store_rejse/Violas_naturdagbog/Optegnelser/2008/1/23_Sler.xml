@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:54 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>S&#xE6;ler </richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I dag har vi set s&#xE6;ler ude ved vandet. De var rigtig s&#xF8;de. Ungerne har deres eget lille sv&#xF8;mmebassin, hvor de legede. Vi s&#xE5; ogs&#xE5; en pingvin, men den ene var meget langt v&#xE6;k, s&#xE5; den m&#xE5;tte jeg se i en kikkert, den anden l&#xE5; under en klippe og hvilede sig. S&#xE6;lerne her har meget mere pels end dem hjemme i Danmark, derfor hedder de Pelss&#xE6;ler. &#xD;De lange sorte lakridser p&#xE5; billedet er tang.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;onsdag den 23. januar 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_Sler_files/shapeimage_1.png" left="0px" top="0px" width="496px" height="372px"/>
+</content>

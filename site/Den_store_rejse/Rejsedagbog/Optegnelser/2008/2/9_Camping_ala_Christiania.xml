@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:18 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>west Coast - nelson</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Camping a&#xB4;la Christiania </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>l&#xF8;rdag den 9. februar 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="9_Camping_ala_Christiania_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="217px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vi er k&#xF8;rt fra den helt fantastiske campingplads p&#xE5; Vestkysten. At finde de sm&#xE5; mystiske pladser er et lotteri, men det er sk&#xF8;nt n&#xE5;r det lykkes. Pladsen i Rapahoe f&#xE5;r indtil videre pr&#xE6;mien for den mest originale plads vi har bes&#xF8;gt. K&#xF8;kken, bad og stue var i en gammel skole, s&#xE5; man skulle tage bad midt i stuen, mens andre campister spiste morgenmad. I et lille bitte v&#xE6;relse p&#xE5; 2 x 2 meter boede en &#xE6;ldre dame : Beverly. Hun havde fotooverv&#xE5;gning uden for d&#xF8;ren, og hun havde en meget flot blomstret vatteret badek&#xE5;be.&#xD;&#xD;Bestyreren af pladsen er samler, s&#xE5; der var ting overalt, gammelt leget&#xF8;j, maling og alskens gammelt v&#xE6;rkt&#xF8;j. K&#xF8;kken og badev&#xE6;relser var malet i de klareste caribiske farver og der var slevf&#xF8;lgelig blinkende lysk&#xE6;der ved toiletterne. &#xD;&#xD;I k&#xF8;kkenet den f&#xF8;rste aften st&#xF8;der vi p&#xE5; Joanna, Svend, Sebastian og Benjamin fra Djursland. Det var rigtig hyggeligt selskab med et par kolde &#xF8;l og en sen aften for Viola, der legede med Benjamin. &#xD;&#xD;Efter to dage og en masse sten, som Viola gerne ville have med hjem til farmor, k&#xF8;rer vi v&#xE6;k fra den vilde vestkyst og mod det blide Nelson. &#xD;&#xD;/Camilla</richText>
+  </textBox>
+</content>

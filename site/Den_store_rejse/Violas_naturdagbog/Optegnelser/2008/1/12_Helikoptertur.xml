@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:51 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Helikoptertur</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vi har fl&#xF8;jet i helikopter til &#xF8;en og tilbage igen. Her sidder jeg sammen med mor hos piloten. Jeg har h&#xF8;retelefoner p&#xE5; for helikopteren larmer. Der er ogs&#xE5; en mikrofon, s&#xE5; jeg kan fort&#xE6;lle de andre hvad jeg ser. Man kan &#xE5;bne et vindue i helikopteren mens man flyver, det er lidt underligt. P&#xE5; vej over til &#xF8;en faldt jeg i s&#xF8;vn i helikopteren.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;l&#xF8;rdag den 12. januar 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_Helikoptertur_files/shapeimage_1.png" left="0px" top="0px" width="496px" height="372px"/>
+</content>

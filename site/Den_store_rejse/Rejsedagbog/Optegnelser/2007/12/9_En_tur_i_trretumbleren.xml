@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:25:57 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Alice Springs</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>En tur i t&#xF8;rretumbleren</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>s&#xF8;ndag den 9. december 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="9_En_tur_i_trretumbleren_files/shapeimage_1.png" left="0px" top="0px" width="419px" height="218px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Pr&#xF8;v at s&#xE6;tte dig ud p&#xE5; badev&#xE6;relset og t&#xE6;nd for din h&#xE5;rt&#xF8;rrer p&#xE5; mellemste trin og s&#xE6;t dig foran den. S&#xE5;dan nogenlunde f&#xF8;les det her midt i Australien. Det er et ret specielt sted, med min. 1.500 km til n&#xE6;rmeste kyst - uanset hvilken retning man v&#xE6;lger at k&#xF8;re. S&#xE5; hvis man en morgen v&#xE5;gner op her i Alice med en ub&#xE6;ndig trang til at tage en tur til stranden, skal man ikke regne med at v&#xE6;re der f&#xF8;r n&#xE6;ste dag...&#xD;&#xD;Efter at have k&#xF8;rt i tog i 26 timer hopper vi af p&#xE5; stationen kl. 11.15 for at udforske Australiens centrum, kaldet The Red Center. Vi skal v&#xE6;re her i 4 dage og k&#xF8;re sm&#xE5; 800 km i bil for at bes&#xF8;ge Kings Canyon, Ayers Rock og The Olgas. Her er som sagt stegende varmt, totalt &#xF8;de, n&#xE6;sten ingen mennesker og meget goldt.&#xD;&#xD;Vi vill gerne have kigget n&#xE6;rmere p&#xE5; byen og dens sev&#xE6;rdigheder, men her er simpelthen for varmt og vi v&#xE6;lger i stedet at sove en middagslur og lade batterierne op inden vi skal hente vores 4WD i morgen tidlig. Det bliver virkelig sp&#xE6;ndende at k&#xF8;re gennem den r&#xF8;de &#xF8;rken via sm&#xE5; grusveje og vild natur.</richText>
+  </textBox>
+</content>

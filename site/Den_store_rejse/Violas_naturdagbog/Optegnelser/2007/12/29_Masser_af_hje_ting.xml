@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:48 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Masser af h&#xF8;je ting</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Her til aften har min far v&#xE6;ret helt oppe p&#xE5; toppen af en h&#xF8;j bro. Men jeg har faktisk ogs&#xE5; v&#xE6;ret meget h&#xF8;jt oppe. I Melbourne var jeg nemlig med min far oppe i det h&#xF8;jeste hus p&#xE5; hele den sydlige halvkugle. 82 etager eller n&#xE6;sten 4000 trappetrin oppe. man kunne se hele byen. Jeg fik lov at l&#xE5;ne min fars kamera og tog en masse billeder deroppe.&#xD;&#xD;Nogle dage tidligere var vi ude i en stor skov, hvor vi s&#xE5; de h&#xF8;jeste tr&#xE6;er, jeg nogensinde har set. De kunne blive 100 meter h&#xF8;je, og man kunne n&#xE6;sten ikke se helt op til toppen. Der var ogs&#xE5; et stort vandfald, der var smadder flot.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;l&#xF8;rdag den 29. december 2007&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="29_Masser_af_hje_ting_files/shapeimage_1.png" left="0px" top="0px" width="259px" height="372px"/>
+</content>

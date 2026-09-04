@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:25:52 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Great Barrier Reef</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>En dag i kaptajn Cooks tegn</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>l&#xF8;rdag den 24. november 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="24_En_dag_i_kaptajn_Cooks_tegn_files/shapeimage_1.png" left="0px" top="0px" width="419px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Ved 7 tiden om morgenen bliver der endelig stille. men kun i f&#xE5; minutter, for s&#xE5; annonceres det at vi nu er fremme ved Cook Town og at morgenmaden er klar. Vi spiser og g&#xF8;r os parate til en byvandring i hvad der skal vise sig at v&#xE6;re noget af en fl&#xE6;kke. Der er ganske meget cowboyfilm over Cook town, og det viser sig da ogs&#xE5; at der for nylig har v&#xE6;ret en shootout duel midt p&#xE5; hovedgaden mellem to br&#xF8;dre, der var blevet uvenner, og den ene blev simpelthen skudt p&#xE5; bedste westernmaner...&#xD;&#xD;Vi fornemmer, at nu er vi virkelig langt v&#xE6;k hjemmefra. Det er stegende hedt og de 2 timer vi har g&#xE5;r hurtigt.&#xD;&#xD;Vi sejler videre kl. 10 og lander ud for en meget smuk sandbanke kaldet Two isles, kl. 13. Som alt andet p&#xE5; turen er her totalfredet. Vi sejles ind p&#xE5; den &#xF8;de strand, og hygger os nogle timer, men ture i glasbundsb&#xE5;den over de utrolig smukke koraller, og en masse snorkling. Viola er efterh&#xE5;nden ganske ferm til det.&#xD;&#xD;Bagefter s&#xE6;tter vi kursen mod et af turens h&#xF8;jdepunkter: Lizard Island - det nordligste punkt p&#xE5; vores sejltur. P&#xE5; vejen hygger vi os p&#xE5; &#xF8;verste d&#xE6;k med champagne og badning i b&#xE5;dens spa - det er ren luksus og et rigtigt driverliv.&#xD;&#xD;Ved 18 tiden ankommer vi til Watson&#xB4;s Bay, hvor saglig kaptajn Cook lagde til, da han ikke rigtig kunne finde ud af at komme videre. Her er virkelig smukt og vi nyder en dejlig solnedgang.&#xD;&#xD;I morgen kl. 6 sendes f&#xF8;rste dykkerteam afsted, s&#xE5; vi t&#xF8;rner i k&#xF8;js rimelig tidligt igen.</richText>
+  </textBox>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:34 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Danmark</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Hjemme igen</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>tirsdag den 1. april 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="1_Hjemme_igen_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Puh ha. efter n&#xE6;sten 48 timers transport via 4 flyvninger er vi nu hjemme igen i Sk&#xF8;nne gamle Danmark. Turen gik faktisk forbavsende godt, selvom vi er lidt m&#xF8;rbankede. ingen forsinkelser og al bagage med hjem p&#xE5; trods af at vi tjekkede alle tasker ind p&#xE5; Rarotonga og hele vejen til K&#xF8;benhavn.&#xD;&#xD;Det er lidt m&#xE6;rkeligt men ogs&#xE5; dejligt at v&#xE6;re hjemme igen. Dejligt at vende hjem til vante rammer, fuglefl&#xF8;jt og de f&#xF8;rste tr&#xE6;er der s&#xE5; sm&#xE5;t er sprunget ud. M&#xE6;rkeligt at skulle til at f&#xE5; en hverdag til at fungere.&#xD;&#xD;Vi er g&#xE5;et i gang med at &#xE5;bne telefoner, flytte post, aktivere forsikringer, fylde k&#xF8;leskab osv.&#xD;&#xD;Pigerne har t&#xF8;mt alt deres leget&#xF8;j ud p&#xE5; gulvet og har en fest af de helt store. Det er underligt at vi tog af sted med to sm&#xE5; piger og er kommet hjem med to store af slagsen...&#xD;&#xD;Vi er lettede over at v&#xE6;re sluppet igennem turen uden sygdomme, st&#xF8;rre uheld, tyverier og forsinkelser.&#xD;&#xD;Vores mission med websitet er ogs&#xE5; ved at v&#xE6;re overst&#xE5;et. Vi mangler at l&#xE6;gge de sidste fotoalbum op fra den sidste del af turen og lave et par sm&#xE5;opdateringer, men ellers s&#xE5; slutter vi jo nok med at poste p&#xE5; sitet - ihvertfald indtil vi tager afsted n&#xE6;ste gang!&#xD;&#xD;Mere end 150 historier blev det til p&#xE5; sitet, over 5.000 fotos og ca. 20 timers uredigeret video, der bare ligger og venter p&#xE5; at blive tygget igennem. Vi har haft over 11.000 bes&#xF8;g p&#xE5; siden i periodene og f&#xE5;et en masse s&#xF8;de kommentarer og mails, tusind tak for dem alle sammen. &#xD;&#xD;Vi h&#xE5;ber at have inspireret og underholdt undervejs, og vi kan kun opfordre alle til at leve dr&#xF8;mmen ud og tage afsted, det er helt sikkert verdens bedste ide og et minde man har med sig resten af livet.&#xD;&#xD;Tusind tak herfra&#xD;&#xD;/Tim</richText>
+  </textBox>
+</content>

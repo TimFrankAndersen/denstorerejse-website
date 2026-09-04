@@ -1,0 +1,4 @@
+.DS_Store
+*.AVI
+node_modules/
+.vercel/

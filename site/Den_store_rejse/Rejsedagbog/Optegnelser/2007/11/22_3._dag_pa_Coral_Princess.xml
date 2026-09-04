@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:25:51 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Kontinentet </richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>3. dag p&#xE5; Coral Princess</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>torsdag den 22. november 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_3._dag_pa_Coral_Princess_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vi har haft en urolig nat, hvor Viola v&#xE5;gnede og gr&#xE6;d flere gange. Vi har derfor besluttet af holde en rolig dag for pigerne. Tim st&#xE5;r op 6.30 og tager 1. tur til Dunk Island, mens jeg bliver hos pigerne til de v&#xE5;gner og vi ser lidt tegnefilm i sengen. Vi sejler rigtig l&#xE6;nge i dag, jeg er en smule utilpas, og sover et par timer til formiddag. Kl .11. n&#xE5;r vi det ydre rev Nathans Reef. Stella sover til middag og Tim tager f&#xF8;rste dyk .Sigtbarheden er bedre men ikke helt god, dybden er kun 6-8 meter, hvilket egentlig g&#xF8;r det mere egnet til snorkling. Viola n&#xE5;r i vandet mellem vores 2 dyk, men ellers tilbringer hun hele dagen i natt&#xF8;j med spil, l&#xE6;sning og hygge. Mit dyk er sammen med 2 amerikanere, der ikke har certifikat, det er ok, smukke koraller men ikke noget vildt. Jeg f&#xE5;r sl&#xE6;bt lidt rundt p&#xE5; en stor s&#xF8;agurk, men ellers er der ikke s&#xE5; meget at se. Vi h&#xE5;ber p&#xE5; nogle dybere dyk i de n&#xE6;ste dage. &#xD;&#xD;Efter kun to timers stop er der ca. 7 timers sejlads til vores natstop, det er lidt lange sejladser for pigerne og for en ikke s&#xE5; s&#xF8;st&#xE6;rk mor. Jeg plejer ikke at have problemer med s&#xF8;syge, men her er jeg p&#xE5; ingef&#xE6;rpiller hele tiden. &#xD;Nu er kl. ved at n&#xE6;rme sig 22 Tim er allerede g&#xE5;et til k&#xF8;js, og jeg er ogs&#xE5; helt f&#xE6;rdig. Godnat fra en smuk stillehavsnat. </richText>
+  </textBox>
+</content>

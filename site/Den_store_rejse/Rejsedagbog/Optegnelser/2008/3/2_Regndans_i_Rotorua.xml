@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:25 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Rotorua</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Regndans i Rotorua</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>s&#xF8;ndag den 2. marts 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="2_Regndans_i_Rotorua_files/shapeimage_1.png" left="0px" top="0px" width="418px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I dag skal vi bes&#xF8;ge Te Puhia, som er et Maori kulturcenter i Rotorua. Vi ankommer tidligt, s&#xE5; vi kan n&#xE5; en koncert kl. 10.15. Vi bliver budt velkommen af en Maoriprinsesse, og efter velkomstceremoni med Hongi - (hilsen hvor n&#xE6;serne skal r&#xF8;re hinanden to gange), skal vi se et par danse i m&#xF8;desalen. &#xD;&#xD;Det er lige noget for Viola og Stella. Kvinder i bastsk&#xF8;rter, m&#xE6;nd med spyd, der spiller p&#xE5; store konkylier. Pigerne sidder med &#xE5;ben mund lige foran scenen. &#xD;&#xD;Da der skal danses pompom dans kommer Viola op p&#xE5; scenen for at danse med, og senere er det Tim&#x2019;s tur til at danse krigsdans, hvor man bruger tungen og &#xF8;jnene til at skr&#xE6;mme fjenden v&#xE6;k med. Koncerten er turistet, men en stor succes i vores familie. Maorikulturen adskiller sig en del fra andre stillehavskulturer, fordi Maorierne var isolerede p&#xE5; New Zealand i mange &#xE5;r, vi gl&#xE6;der os derfor til at opleve sang og dans p&#xE5; Cook Island.&#xD;&#xD;Det er sp&#xE6;ndende at l&#xE6;re om Maorierne, men vi er ikke s&#xE5; vilde med at have betragterrollen, i det meget  iscensatte omr&#xE5;de, s&#xE5; vi g&#xE5;r ned for at se Pohutu geyseren, den st&#xF8;rste p&#xE5; New Zealand, springe ca. 20 meter op i luften. &#xD;&#xD;Vi spiser i camperen, og k&#xF8;rer mod Waihi Beach ad sm&#xE5; snoede veje. P&#xE5; pladsen m&#xF8;der vi igen Asta og hendes for&#xE6;ldre, s&#xE5; Viola er i den 7. himmel, og der bliver leget p&#xE5; livet l&#xF8;s. </richText>
+  </textBox>
+</content>

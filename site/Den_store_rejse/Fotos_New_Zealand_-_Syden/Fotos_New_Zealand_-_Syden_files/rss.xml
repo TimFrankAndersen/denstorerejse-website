@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Fotos fra vores rejse</title>
+    <link>/Den_store_rejse/Fotos_New_Zealand_-_Syden/Fotos_New_Zealand_-_Syden.html</link>
+    <description>Vi har tilbragt 5 uger i Camper på sydøen i New Zealand. Her på siden kan du se vores bedste billeder opdelt efter de forskellige geografiske områder, vi har besøgt</description>
+    <item>
+      <title>Sydøen - østkysten</title>
+      <link>/Den_store_rejse/Fotos_New_Zealand_-_Syden/Sider/Syden_-_stkysten.html</link>
+      <guid isPermaLink="false">be999f25-e3a4-4588-8fbe-ca04bbc57fb8</guid>
+    </item>
+    <item>
+      <title>Doubtful Sound</title>
+      <link>/Den_store_rejse/Fotos_New_Zealand_-_Syden/Sider/Doubtful_Sound.html</link>
+      <guid isPermaLink="false">43804688-c42d-4b39-86e0-46e2efaf9c48</guid>
+    </item>
+    <item>
+      <title> Queenstown og Wanaka</title>
+      <link>/Den_store_rejse/Fotos_New_Zealand_-_Syden/Sider/Queenstown_og_Wanaka.html</link>
+      <guid isPermaLink="false">53d8f3d1-55b7-488e-a887-488819ada012</guid>
+    </item>
+    <item>
+      <title>Siberia Valley</title>
+      <link>/Den_store_rejse/Fotos_New_Zealand_-_Syden/Sider/Siberia_Valley.html</link>
+      <guid isPermaLink="false">55decf01-53a2-4146-b2b6-a21462cb0e57</guid>
+    </item>
+    <item>
+      <title>Sydøen - vestkysten</title>
+      <link>/Den_store_rejse/Fotos_New_Zealand_-_Syden/Sider/Syden_-_vestkysten.html</link>
+      <guid isPermaLink="false">8608b677-d821-4b29-917a-36f4878a1d6c</guid>
+    </item>
+    <item>
+      <title>Den nordlige del af sydøen</title>
+      <link>/Den_store_rejse/Fotos_New_Zealand_-_Syden/Sider/Den_nordlige_del_af_syden.html</link>
+      <guid isPermaLink="false">c38ab09b-8bf2-49de-bd27-6488ec3e4539</guid>
+    </item>
+  </channel>
+</rss>

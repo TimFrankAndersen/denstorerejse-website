@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:06 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>SYDNEY</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>P&#xE5; sejltur med det gode skib Smitten</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mandag den 31. december 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="31_Pa_sejltur_med_det_gode_skib_Smitten_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Det er nyt&#xE5;rsaften i aften og hele byen er p&#xE5; den anden ende. De fleste omr&#xE5;der langs med havnen er delvist afsp&#xE6;rrede og der er private fester langs vandet.&#xD;&#xD;Mine svigerfor&#xE6;ldre har lejet en sejlb&#xE5;d, s&#xE5; vi kan se hele balladen fra vandet. Vejret er sk&#xF8;nt og kl. 10 s&#xE6;tter vi sejl og s&#xE6;tter kurs mod Rose Bay. Vi sejler under Harbour bridge, og har Operahuset til styrbord. Langs kysterne er sejlb&#xE5;de allerede i gang med at ankre op, s&#xE5; de kan se aftenens fyrv&#xE6;rkeri fra f&#xF8;rste parket. Omkring 3.000 b&#xE5;de forventes at v&#xE6;re p&#xE5; vandet kl. 24!&#xD;&#xD;Mange har sagt til os, at Sydney skal ses fra vandsiden, og Sydneys havn er virkelig et dejligt sted at sejle, der er masser af sm&#xE5; strande og hyggelige bugte. Vinden springer en del, hvilket ogs&#xE5; drillede sejlerne under OL i 2000, der blev afholdt her i havnen. Vi sejler forbi Double Bay, som er et af de dyreste steder at bo, hvorfor stedet af de lokale kaldes for &#x201C;Double Pay&#x201D;. vores skipper Craig f&#xE5;r slappet af, da vi selv kan sejle b&#xE5;den. Det g&#xE5;r ikke s&#xE5; st&#xE6;rkt, s&#xE5; vi har masser af tid til at nyde synet af sydneys skyline og de mange smukke huse langs kysten. Overalt er der mennesker, der er ved at tage plads for at kunne se broen og fyrv&#xE6;rkeriet. Byens botaniske have er et menneskehav. Det bliver 12 lange timer i solen for de mange mennesker, men det skulle v&#xE6;re v&#xE6;rd at vente p&#xE5;. Vi gl&#xE6;der os.&#xD;&#xD;Kl. 13 bliver vi sat af ud for vores hotel. nu skal vi slappe af og se de mange sjove optog og flyopvisninger, der foreg&#xE5;r i en sand str&#xF8;m fra nu og resten af aftenen.</richText>
+  </textBox>
+</content>

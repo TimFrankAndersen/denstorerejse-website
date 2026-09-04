@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:55 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Ridetur med mor</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I dag har jeg v&#xE6;ret p&#xE5; ridetur med mor. Jeg red p&#xE5; Charlie, en stor hest. Den var s&#xF8;d, men den ville hele tiden spise gr&#xE6;s, og s&#xE5; kunne jeg ikke f&#xE5; den i gang igen. Vi red nede ved en flod, hvor vi s&#xE5; nogen rigtig nuttede kaniner. &#xD;Jeg red trav, men det gik fint, for mors veninde Karen har l&#xE6;rt mig at ride. N&#xE5;r vi kommer hjem, vil jeg gerne g&#xE5; til ridning. &#xD;Jeg red alene hjem med en l&#xE6;rer, da mor skulle galoppere.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;s&#xF8;ndag den 3. februar 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="3_Ridetur_med_mor_files/shapeimage_1.png" left="0px" top="0px" width="495px" height="372px"/>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:30 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Rarotonga</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>S&#xE5; er vi ankommet til Bounty land!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>l&#xF8;rdag den 15. marts 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="15_Sa_er_vi_ankommet_til_Bounty_land%21_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="232px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Efter en halv dag i Auckland og masser af ventetid i lufthavnen, kommer vi endelig afsted kl. 23 om aftenen. Ikke noget perfekt tidspunkt, n&#xE5;r man rejser med sm&#xE5; b&#xF8;rn, men b&#xE5;de Stella og Viola satte sig bare til rette i flyet, sp&#xE6;ndte deres seler, og f&#xE5; sekunder efter, s&#xE5; sov de, hvilket de s&#xE5; gjorde p&#xE5; hele flyturen.&#xD;&#xD;Der er i&#xF8;vrigt pluspoint til Air New Zealand for at have lavet et stort b&#xF8;rnerum i deres lounge. Vi flyver jo p&#xE5; business class, men der var ikke meget business over det, da stort set alle dem der sad heroppe var b&#xF8;rnefamilier. Der var to nyf&#xF8;dte babyer og adskillige andre b&#xF8;rn i alle aldre. Det er vist noget som flyselskaberne skal til at t&#xE6;nke alvorligt over, for hvis du virkelig er Business flyvende er det sm&#xE5;t med roen...&#xD;&#xD;Vi lander i Rarotonga kl. 4 om morgenen godt tr&#xE6;tte i knolden. Det er 26 grader og buldrende m&#xF8;rkt. Men inde i den lille ankomsthal, st&#xE5;r der selvf&#xF8;lgelig en lokal og spiller honolulu musik og idet vi kommer gennem tolden, f&#xE5;r vi alle blomsterkranse p&#xE5;. Kl. 4.30 om natten, rimelig bizart, men meget s&#xF8;dt.&#xD;&#xD;Vi er fremme, hvor vi skal bo kl. 5 om morgenen og s&#xE5; er det alts&#xE5; bare p&#xE5; hovedet i seng.&#xD;&#xD;Vi har passeret datolinien p&#xE5; vejen, s&#xE5; vi v&#xE5;gner samme dato som vi tog afsted - ogs&#xE5; ret mystisk. S&#xE5; fra at v&#xE6;re 12 timer foran, er vi nu 11 timer bagud.&#xD;&#xD;Vi sl&#xE5;r gardinerne til side i vores store stue, og kigger direkte ud i en azurbl&#xE5; lagune. Vi bor ca. 5 meter fra vandet og helt uforstyrret. Selvom vi alle er lidt groggy efter rejsen, s&#xE5; f&#xE5;r vi en sk&#xF8;n dag ud af det med masser af badning i det varme vand, palmefletning og hygge p&#xE5; stranden. Det er sk&#xF8;nt at have plads omkring sig og ikke hele tiden at skulle tage en masse beslutninger om, hvor vi skal hen og hvad vi skal g&#xF8;re. Her skal vi bare slappe af, l&#xE6;gge uret i skuffen og nyde det.</richText>
+  </textBox>
+</content>

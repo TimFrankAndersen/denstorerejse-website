@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:10 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>O&#x2019;Reilleys</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Sommerhus hygge</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mandag den 14. januar 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="14_Sommerhus_hygge_files/shapeimage_1.png" left="0px" top="0px" width="417px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>At bes&#xF8;ge O&#x2019;Reilleys minder om skiferie, spejderhytter og fugtigt sommerhus. Der er en hyggelig famili&#xE6;r stemning p&#xE5; stedet, der startede med at nogle m&#xE6;nd fra O&#x2019;Reilly klanen forlod Blue Mountain ved Sydney, og k&#xF8;bte land p&#xE5; toppen af et bjerg i Queensland. Regeringen gjorde kort tid efter omr&#xE5;det til national park, og afskar br&#xF8;drene fra dalene, som kompensation lavede de en sti, hvor m&#xE6;lk kunne fragtes ned p&#xE5; heste p&#xE5; to dage. Folk fra Brisbane begyndte at bes&#xF8;ge den smukke natur, og s&#xE5;ledes startede O&#x2019;Reillys f&#xF8;rste g&#xE6;stehus. &#xD;I dag er omr&#xE5;det stort, og der er lige blevet bygget en masse huse, p&#xE5; bjergskr&#xE5;ningerne. Kernen er dog stadig en masse guidede ture i omr&#xE5;det, hvor man kan stifte bekendtskab med det rige fugleliv og studere regnskoven p&#xE5; t&#xE6;t hold. &#xD;&#xD;Vi n&#xE5;r at g&#xE5; tur p&#xE5; h&#xE6;ngebroer lige undre tr&#xE6;toppene, se smukke vandfald, fodre papeg&#xF8;jer, gynge i lian gynger, &#xF8;nske under &#xF8;nsketr&#xE6;et og forcerer vandl&#xF8;b. &#xD;Ved morgenmaden st&#xE5;r et familiemedlem og rister br&#xF8;d til alle g&#xE6;sterne, det er en hyggelig tradition, hvor man kan f&#xE5; sig en lille sludder. Michael, der er dagens &#x201C;toaster&#x201D; fors&#xF8;ger at give pigerne Vegemite, det er ingen succes. Han henter ogs&#xE5; gamle fotografier af sin tante Viola, som var en bypige, der forelskede sig i familiens dr&#xF8;mmer Bernard. &#xD;Endnu en gang m&#xE6;tte af oplevelser, l&#xE6;gger vi os, men vi bliver holdt v&#xE5;gne af k&#xE6;nguruerne, n&#xE5;r de l&#xF8;ber forbi p&#xE5; gangen ved v&#xE6;relset. &#xD;/Camilla</richText>
+  </textBox>
+</content>

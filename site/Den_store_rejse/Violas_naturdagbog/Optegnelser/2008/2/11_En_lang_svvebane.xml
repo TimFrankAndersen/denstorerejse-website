@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:56 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>En lang sv&#xE6;vebane</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>P&#xE5; vejen har vi m&#xF8;dt en lang h&#xE6;ngebro, der g&#xE5;r over en flot flod, hvor de har vasket guld i gamle dage. Far og jeg tog en sv&#xE6;vegynge over floden. Det var lidt vildere end den i Christiansholms mose, men det var rigtig sjovt. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;mandag den 11. februar 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="11_En_lang_svvebane_files/shapeimage_1.png" left="0px" top="0px" width="496px" height="372px"/>
+</content>

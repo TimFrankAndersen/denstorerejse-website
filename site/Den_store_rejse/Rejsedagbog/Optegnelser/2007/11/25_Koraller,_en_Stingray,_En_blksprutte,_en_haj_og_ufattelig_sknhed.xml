@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:25:53 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Great Barrier reef</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Koraller, en Stingray, En bl&#xE6;ksprutte, en haj og ufattelig sk&#xF8;nhed</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>s&#xF8;ndag den 25. november 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="25_Koraller,_en_Stingray,_En_blksprutte,_en_haj_og_ufattelig_sknhed_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Just another day at the office....&#xD;Tim st&#xE5;r op 5.30 for at komme p&#xE5; dagens f&#xF8;rste dykketur Sitet hedder Cobias Hole og skulle v&#xE6;re det bedste divesite ved Lizard Island. De skal sejle et par kilometer i gummib&#xE5;d for at n&#xE5; dertil. Det er blikstille og solen er netop st&#xE5;et op da de drager afsted. Pigerne og jeg sover lidt l&#xE6;ngere inden vi tager ind p&#xE5; den smukke strand p&#xE5; Lizard Island. Stranden er perfekt for pigerne: lavt roligt krystalklart vand. Jeg ser en stor bl&#xE6;ksprutte p&#xE5; min snorkeltur. Jeg opdager den kun, fordi den uro, mine finner laver, f&#xE5;r sprutten til at skifte farve fra brun til bl&#xE5;. &#xD;&#xD;P&#xE5; stranden l&#xF8;ber Tim en tur og ser en stor Lizard, der g&#xE5;r rundt og hygger sig i gr&#xE6;sset. &#xD;&#xD;Vi sejler til et af de ydre rev: Ribbon Reef no. 9. Her ligger vi helt alene p&#xE5; et k&#xE6;mpe rev. P&#xE5; den ene side er der 10 meter dybt og lave koraller og p&#xE5; den anden side, hvor b&#xF8;lgerne bryder Koralhavet er der 1000 meters dybde. Der er endnu en gang fantastiske koraller. Jeg ser for f&#xF8;rste gang en stor Stingray, sv&#xF8;mme lige forbi mig mens jeg dykker alene med min egen guide. Det er imponerende med et vingefang p&#xE5; over en 1 meter, og jeg glemmer faktisk at tr&#xE6;kke vejret et &#xF8;jeblik, da jeg kommer til at t&#xE6;nke p&#xE5; Crocodile Steves d&#xF8;d. Senere ser vi ogs&#xE5; en ca. 2,5 lang White Tipped Reef Shark, og jeg h&#xE5;ber, at den allerede har f&#xE5;et mad, for ellers plejer hajer at sove om dagen, men man ved aldrig i Australien. Sidst p&#xE5; dykket m&#xF8;der jeg Viola og TIm i overfladen. Her er s&#xE5; fantastisk, og et s&#xE5; rigt live under vandet, at man ikke begriber det. &#xD;&#xD;Tilbage p&#xE5; b&#xE5;den hygger vi inden krokodilleb&#xF8;fferne. Vi f&#xE5;r os en lille snak med kaptajnen, og en lang snak med Jeffery fra Arizona.&#xD;&#xD;Om lidt sejler vi videre til n&#xE6;ste rev, og n&#xE6;ste sp&#xE6;ndende oplevelse. Viola er blevet en habil snorkler og vi er ved at f&#xE5; sv&#xF8;mmehud mellem t&#xE6;erne. Pigerne n&#xE5;r lige at se p&#xE5; billeder hjemmefra p&#xE5; computeren inden de skal sove. </richText>
+  </textBox>
+</content>

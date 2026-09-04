@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:23 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Marlborough sound</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>En dag ved Momorangi bay</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>tirsdag den 19. februar 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="19_En_dag_ved_Momorangi_bay_files/shapeimage_1.png" left="0px" top="0px" width="419px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&#xD;Vi tager afsked med Blenheim, som var et rimelig kedeligt sted, men takket v&#xE6;re en s&#xF8;d legekammerat til Viola, blev det alligevel et hyggeligt ophold. Camilla har fundet et lille sted, ikke s&#xE5; langt v&#xE6;k, og t&#xE6;t p&#xE5; Picton og f&#xE6;rgen, som vi skal med i morgen til Wellington. Stedet hedder Momorangi Bay, og det viser sig at v&#xE6;re en DOC plads, dvs. en mere primitiv, men til geng&#xE6;ld meget natursmuk plads. Vi parkerer f&#xE5; meter fra vandet og slapper af med en sv&#xF8;mmetur og leg p&#xE5; gr&#xE6;sset. Vi f&#xE5;r ogs&#xE5; lige vasket en masse t&#xF8;j, s&#xE5; vi er klar til n&#xE6;ste etape. Vejret er bare fantastisk flot, og aftenen bliver helt stille og klar med det flotteste lys over bugten. Alle er tr&#xE6;tte og vi g&#xE5;r rimelig tidligt til ro, klar til vores sidste dag p&#xE5; syd&#xF8;en i morgen.&#xD;&#xD;/Tim</richText>
+  </textBox>
+</content>

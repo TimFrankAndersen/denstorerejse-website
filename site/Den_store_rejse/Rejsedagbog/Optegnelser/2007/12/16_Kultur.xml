@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:01 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Adelaide</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Kultur ? </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>s&#xF8;ndag den 16. december 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="16_Kultur_files/shapeimage_1.png" left="0px" top="0px" width="419px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Uhmmm duften af storby, friskbrygget &#x201C;to go&#x201D; kaffe og fitness rum p&#xE5; hotellet. Det er nu dejligt at have et par dage i byen. Hotellet bugner af mennesker, der er bryllup, julefrokost og et leben, som vi er blevet helt uvante med. &#xD;&#xD;Vi beslutter os til at snuse lidt til Adelaides kunstverden, og begiver os p&#xE5; tur til deres kunstmuseum. Vi ender et lidt andet sted end forventet, men det er meget underholdende at se en masse malerier, som man synes man kender, men s&#xE5; er de malet af nogle for os helt ukendte kunstnere. Museet er en sk&#xF8;nsom blanding af s&#xF8;lvt&#xF8;j, porcel&#xE6;n, Aboriginal kunst, Damien Hurst og s&#xE5; lige en Rodin ved toilettet ! Vi h&#xE5;ber, at kunne opst&#xF8;ve noget mere nutidskunst, n&#xE5;r vi kommer tilbage. &#xD;Efter museet ender vi i en &#x201C;julehule&#x201D;i et stormagasin, hvor b&#xF8;rnene kan pr&#xF8;ve karussel og spise popkorn - ja kultur er mange ting. &#xD;&#xD;Mens Stella sover, f&#xE5;r vi tr&#xE6;net, og herefter n&#xE5;r vi lidt juleshopping, inden vi spiser tidlig aftensmad p&#xE5; en italiensk bistro. Her f&#xE5;r Viola endelig muslinger, og Tim f&#xE5;r en meget speciel pasta med krabbe, hvor han skal spise skallen med. Vi har h&#xF8;rt at Adelaide er kendt for deres gode mad, og vi nyder de gode r&#xE5;varer. Ingen pommes frites Hurraaaaa!&#xD;T&#xF8;jvask, pakning og tidligt i seng. </richText>
+  </textBox>
+</content>

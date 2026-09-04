@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:06 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Sydney</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Afsked med Sydney og surferne</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>onsdag den 2. januar 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="2_Afsked_med_Sydney_og_surferne_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I dag er vores sidste dag i denne dejlige by. Vejret er stadig sk&#xF8;nt, s&#xE5; efter en l&#xF8;betur rundt om Operahuset og op i den botaniske have, hvor det vrimler med k&#xE6;mpestore flagermus, s&#xE5; tager vi f&#xE6;rgen til Manley Beach, der ligger helt ude ved &#xE5;bningen til Stillehavet. Vi har f&#xE5;et at vide, at stranden er lukket pga k&#xE6;mpeh&#xF8;je b&#xF8;lger, men vi tager afsted alligevel.&#xD;&#xD;Det bl&#xE6;ser ikke s&#xE6;rlig meget, men der st&#xE5;r en &#x201C;gammel s&#xF8;&#x201D; ind p&#xE5; stranden, og n&#xE5;r vand f&#xE5;r lov at l&#xF8;be over s&#xE5; lange afstande, s&#xE5; taler vi alts&#xE5; om meget h&#xF8;je b&#xF8;lger. Der er ingen, der bader, men til geng&#xE6;ld masser af Boarders - de rigtige surfere. Det er fascinerende at kigge p&#xE5;, og selvom det ser legende let ud, er det garanteret vildt sv&#xE6;rt. Vi g&#xE5;r langs vandet over til Shelly Beach, hvor der er l&#xE6; for b&#xF8;lgerne, og vi bader p&#xE5; livet l&#xF8;s.&#xD;&#xD;Efter en dejlig dag ved vandet, er vi hjemme ved 18 tiden, og s&#xE5; er det ellers i gang med pakkeriet. Vi skal flyve rigtig tidligt i morgen, og der skal pakkes med omtanke denne gang, for vi skal med helikopter ud til Heron Island, og derfor m&#xE5; vi kun have 15 kg med hver. Vi er lidt sp&#xE6;ndte, for omr&#xE5;det har v&#xE6;ret h&#xE5;rdt ramt af cykloner og orkaner den seneste uge, bla. har Fraser Island, hvor vi ogs&#xE5; skal hen, v&#xE6;ret evakueret.&#xD;&#xD;Sydney har helt sikkert v&#xE6;ret en dejlig oplevelse og et af de steder, vi gerne vil vende tilbage til.&#xD;&#xD;Godnat herfra :)&#xD;&#xD;/Tim</richText>
+  </textBox>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:25:44 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Dag 1 - turen er i gang</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>S&#xE5; er der afgang!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>torsdag den 1. november 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="1_Sa_er_der_afgang%21_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Nu kan vi ikke snakke udenom mere. Alle vores forberedelser er f&#xE6;rdige. vi er endelig i luften! Forude venter 152 dages eventyr. Det kilder stadig i mavenved tanken om hvad der skal ske, men jeg tror at vi alle fire er lettede over at ventetiden nu er slut og vi kan begive os afsted.</richText>
+  </textBox>
+</content>

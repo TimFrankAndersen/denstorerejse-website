@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:56 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas naturdagbog </richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Vores nabo</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I g&#xE5;r boede vi p&#xE5; en campingplads i en skov. Vores nabo var en masse f&#xE5;r og en hast. Der var ingen legeplads, men der var masser af pinde. Stella og jeg fandt en d&#xF8;d fugl, jeg synes den var meget interessant, jeg tog den op p&#xE5; pinden. &#xD;&#xD;Jeg talte f&#xE5;resprog med f&#xE5;ret, det er ikke s&#xE5; sv&#xE6;rt M&#xE6;&#xE6;&#xE6;&#xE6;hhhh.&#xD;Stella og jeg spillede p&#xE5; tromme p&#xE5; skraldespanden. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;tirsdag den 5. februar 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="5_Vores_nabo_files/shapeimage_1.png" left="0px" top="0px" width="496px" height="372px"/>
+</content>

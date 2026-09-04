@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:57 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas Naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Vild leg</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I dag har k&#xF8;rt rundt p&#xE5; nogle g&#xE5;rde, hvor de laver vin. Mor og far skulle smage vinen, det var ikke sjovt, men der var heldigvis legekasser alle steder.Bagefter var vi p&#xE5; chokoladefabrik, hvor vi fik smagspr&#xF8;ver Uhhmmm.&#xD; P&#xE5; campingpladsen parkerede vi lige oppe i legepladsen. Vores naboer var danskere, og der var en rigtig s&#xF8;d pige, Amanda p&#xE5; 6 &#xE5;r. &#xD;Vi fik leget sammen, men jeg slog mig et par gange. Jeg faldt ned fra et h&#xF8;jt tr&#xE6;, lige p&#xE5; hovedet - s&#xE5; sagde mor og far at jeg skulle slappe lidt af, for jeg er jo stadig 4 &#xE5;r, n&#xE6;sten 5.&#xD;Dagen efter h&#xF8;rte vi musik sammen p&#xE5; vores MP3 &#x2018;ere. Far har en dims med, s&#xE5; man kan s&#xE6;tte to h&#xF8;retelefoner p&#xE5;. Vi h&#xF8;rte Krumme og MGP. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;fredag den 22. februar 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_Vild_leg_files/shapeimage_1.png" left="0px" top="0px" width="496px" height="372px"/>
+</content>

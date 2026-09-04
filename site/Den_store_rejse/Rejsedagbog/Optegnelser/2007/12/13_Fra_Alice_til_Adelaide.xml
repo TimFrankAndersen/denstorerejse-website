@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:00 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>South Australia</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Fra Alice til Adelaide</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>torsdag den 13. december 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="13_Fra_Alice_til_Adelaide_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vi er tilbage i civilisationen. Adelaide lugter af storby, uden helt at v&#xE6;re det. Vi m&#xE5;tte f.eks. vente 45 minutter p&#xE5; en taxi ved stationen...&#xD;&#xD;Men her er mennesker og butikker og liv og julestemning - ganske rart!&#xD;&#xD;Togturen blev alt i alt en lidt blandet forn&#xF8;jelse. Det var en rigtig fin m&#xE5;de at f&#xE5; fornemmet landets st&#xF8;rrelse p&#xE5;, og det var fedt at sidde og spise mens &#xF8;rkenen dr&#xF8;nede forbi og solen gik ned ude i horisonten. Normalt sover man ogs&#xE5; fantastisk i et tog, men begge n&#xE6;tter blev forstyrret p&#xE5; forskellig vis. Af lange ophold, hvor man ligger og spekulerer over om noget er galt og af n&#xF8;dbelysningen, der pludselig blev t&#xE6;ndt igen og igen fordi str&#xF8;mmen gik. Den manglende st&#xF8;m bet&#xF8;d ogs&#xE5; at toiletterne ikke virkede og at airconditioningen blev sat ud af kraft. Men p&#xE5; anden halvdel havde vi den kup&#xE9; vi havde regnet med hjemmefra: stor og rummelig med god plads til at ungerne kunne lege, og det var fedt.&#xD;&#xD;Men nu er vi i adelaide, p&#xE5; et dejligt hotel, hvor vi blev rigtig godt modtaget. Vi er tr&#xE6;tte og gl&#xE6;der os til at slappe af en dags tid inden vi formentlig tager videre til den br&#xE6;ndende &#xF8;: kangaroo island. vi f&#xE5;r se...</richText>
+  </textBox>
+</content>

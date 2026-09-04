@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:57 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas Naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Jeg fotograferer</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Jeg er blever ret god til at tage billeder p&#xE5; turen - jeg tager rigtig mange, og en gang imellem holder jeg kameraet p&#xE5; skr&#xE5;, s&#xE5; bliver det sjovere at kigge p&#xE5;. Her har jeg taget ca. 25 billeder af Stella og jeg. &#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;mandag den 18. februar 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="18_Jeg_fotograferer_files/shapeimage_1.png" left="0px" top="0px" width="483px" height="363px"/>
+</content>

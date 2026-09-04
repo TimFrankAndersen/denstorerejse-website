@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:54 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Jeg surfer</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>En dag l&#xE5;nte jeg et surfbr&#xE6;t, jeg surfede p&#xE5; det lidt, men jeg gjorde det kun et lille sekund. Vandet var for koldt, det kommer lige fra Sydpolen. &#xD;Jeg legede med det p&#xE5; stranden, jeg lagde sten p&#xE5; det, og trak det sammen med Stella. &#xD;K&#xE6;re Hilsen Viola, jeg h&#xE5;ber Iser det - Hej b&#xF8;rnehave !</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;mandag den 28. januar 2008&lt;/b&gt;</richText>
+  </textBox>
+</content>

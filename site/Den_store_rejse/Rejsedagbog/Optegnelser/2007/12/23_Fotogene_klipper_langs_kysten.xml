@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:02 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Great ocean road</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Fotogene klipper langs kysten</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>s&#xF8;ndag den 23. december 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_Fotogene_klipper_langs_kysten_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>S&#xE5; har vi forladt vores smukke motelv&#xE6;relse, og vi vil gerne bes&#xF8;ge Blue Lake - en vulkan s&#xF8;, der af uransagelige &#xE5;rsager er bl&#xE5; om sommeren - inden vi drager videre fra Mount Gambier. Da vi stiger ud af bilen kommer der dog s&#xE5; voldsomme vindst&#xF8;d, at det er ikke er sjovt at v&#xE6;re ude med Stella, derfor bliver der kun til et ultrakort stop inden vi tager bilen og k&#xF8;rer afsted. &#xD;&#xD;Det er lidt sv&#xE6;rt at se ud fra guidebogen, hvor det er v&#xE6;rd at stoppe, men vi v&#xE6;lger at tage en omvej til Cape Bridgewater hvor vi ser grotter og et vildt hav med blowholes, der spr&#xF8;jter salt og saltvand overalt. Vi er virkelig kommet v&#xE6;k fra troperne, det regner og termometeret kan lige snige sig op p&#xE5; 16 grader. Viola m&#xE5; l&#xE5;ne mine sokker, s&#xE5; hun ikke bliver alt for kold i vinden. Naturen er frodig, og der er masser af kv&#xE6;g og f&#xE5;r i det bakkede gr&#xF8;nne landskab. &#xD;&#xD;Efter en sen frokost i Warrnambool (s&#xE5;dan staves det faktisk) n&#xE5;r vi til den mest kendte del af Great Ocean Road: et vejstykke med udsigtspunkter for hver kilometer. vi strider os ud i bl&#xE6;sten for at se de meget smukke klipper, men t&#xF8;serne kan alts&#xE5; ikke helt f&#xF8;lge med vores naturfotograf, s&#xE5; engang imellem bliver vi i varmen i bilen og lader Tim tage den kolde tjans. De 12 apostle ( der med &#xE5;rene er blevet til s&#xF8;lle seks pga erosion) skal vi dog se, og en sidste gang k&#xE6;mper vi os ud for at se den vilde kyst. &#xD;&#xD;Herefter har vi ca. 100 km tilbage, blandt andet gennem regnskov til den beskyttede bugt, Apollo Bay, hvor vi skal v&#xE6;re i to dage. Vi krydser fingre for bare en smule bedre vejr....</richText>
+  </textBox>
+</content>

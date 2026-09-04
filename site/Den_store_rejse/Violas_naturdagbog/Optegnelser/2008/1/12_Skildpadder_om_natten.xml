@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:50 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Skildpadder om natten</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Her p&#xE5; &#xF8;en, hvor vi bor, g&#xE5;r de store havskildpadder op og l&#xE6;gger  &#xE6;g. I g&#xE5;r aftes gik jeg en rundt med min far, og vi s&#xE5; et par store skildpadder. De l&#xE6;gger &#xE6;ggene, og d&#xE6;kker reden helt til med deres luffer, man skal st&#xE5; helt stille i m&#xF8;rket, for ikke at forstyrre dem. Det tager par timer, s&#xE5; jeg blev meget tr&#xE6;t til sidst.  Det er en af de folk, der holder &#xF8;je med skildpadderne, der lyser p&#xE5; dem, de ved nemlig en helt masse om dyrene. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;l&#xF8;rdag den 12. januar 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_Skildpadder_om_natten_files/shapeimage_1.png" left="0px" top="0px" width="496px" height="372px"/>
+</content>

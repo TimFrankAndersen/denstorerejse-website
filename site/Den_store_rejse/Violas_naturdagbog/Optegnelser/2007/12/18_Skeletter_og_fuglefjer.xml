@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:47 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Skeletter og fuglefjer</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Jeg har v&#xE6;ret p&#xE5; fugletur idag. Vi skulle finde en meget sj&#xE6;lden fugl, men det var lidt sv&#xE6;rt at v&#xE6;re stille i lang tid, s&#xE5; det gik ikke s&#xE5; godt. Jeg s&#xE5; nogle sovende k&#xE6;nguruer, og s&#xE5; har jeg fundet et sejt k&#xE6;nguru kranium, og en fjer fra den sj&#xE6;ldne fugl. fjeren sidder nu i min hat og jeg har leget at skelettet er fra en dinosaurus. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;tirsdag den 18. december 2007&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="18_Skeletter_og_fuglefjer_files/shapeimage_1.png" left="0px" top="0px" width="496px" height="372px"/>
+</content>

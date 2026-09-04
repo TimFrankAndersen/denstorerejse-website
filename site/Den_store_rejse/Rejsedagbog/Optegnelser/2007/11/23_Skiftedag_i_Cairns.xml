@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:25:52 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Great Barrier Reef</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Skiftedag i Cairns</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>fredag den 23. november 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_Skiftedag_i_Cairns_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vi v&#xE5;gner op p&#xE5; Thetford Reef. Jeg sl&#xE5;r gardinerne til side og det f&#xF8;rste jeg ser er delfiner der springer lige uden for vinduet!&#xD;&#xD;Umiddelbart er der ellers ikke s&#xE5; meget at se p&#xE5; overfladen som p&#xE5; Nathan Reef, men sigtbarheden skal hurtig vise sig at v&#xE6;re bedre. Vi dykker igen, og denne gang noget dybere. Der er utrolig flot under overfladen.&#xD;&#xD;B&#xE5;de Camilla og jeg f&#xE5;r en sk&#xF8;n oplevelse under vandet og gl&#xE6;der os allerede til de n&#xE6;ste dyk. &#xD;&#xD;Bagefter s&#xE6;tter vi kursen mod Cairns. F&#xF8;rste etape er slut og stort set alle, undtagen os skal af og videre p&#xE5; deres respektive rejser. Vi siger farvel, og Viola kniber en t&#xE5;re. Det er h&#xE5;rdt hele tiden at skulle tage afsked med s&#xF8;de mennesker man lige har l&#xE6;rt at kende. Vi har nogle timer i cairns inden vi skal til s&#xF8;s igen. Det er sk&#xF8;nt med fast grund under f&#xF8;dderne, men alligevel styrer vi direkte mod en af byens store attraktioner: en k&#xE6;mpestor kunstig lagune, hvor det er perfekt at bade for sm&#xE5; b&#xF8;rn. Her er masser af mennesker, og pigerne nyder det. Cairns ligner en rigtig dejlig by, og vi gl&#xE6;der os til vi senere har 3 dage i en lejlighed i byen.&#xD;&#xD;Vi er tilbage p&#xE5; Coral Princess kl. 16 og kort tid efter drager vi fra kaj. De nye passagerer kigger hinanden an. Vi er f&#xE6;rre, men det virker som hyggeligere mennesker. Vi ankrer op efter et par timers sejlads og spiser aftensmad - den store skaldyrs buffet en gang til, men det g&#xF8;r ikke s&#xE5; meget for der er mange rigtig l&#xE6;kre ting, bl.a. super fine &#xF8;sters i r&#xE5; m&#xE6;ngder.&#xD;&#xD;Ved 22 tiden starter motorerne. Vi er for l&#xE6;ngst g&#xE5;et til k&#xF8;js, godt tr&#xE6;tte. men for f&#xF8;rste gang p&#xE5; turen skal vi sejle hele natten, s&#xE5; vi er fremme ved Cook Town n&#xE6;ste morgen. Det larmer p&#xE6;nt og pigerne v&#xE5;gner et par gange, men til geng&#xE6;ld er der mere tid til aktiviteter n&#xE6;ste dag.</richText>
+  </textBox>
+</content>

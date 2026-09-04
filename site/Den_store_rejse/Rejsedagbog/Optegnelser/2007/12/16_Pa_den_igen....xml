@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:01 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Kangaroo Island</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>P&#xE5; den igen...</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>s&#xF8;ndag den 16. december 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="16_Pa_den_igen..._files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>S&#xE5; er vi p&#xE5; farten igen. I lufthavnen og med et lille fly til Kangaroo Island, hvor vi bliver hentet af vores guide Greg, der skal k&#xF8;re os rundt p&#xE5; &#xF8;en i 4 dage. Brandene skulle v&#xE6;re under kontrol indtil tirsdag, hvor der er risiko for en opblussen. 800 brandfolk har v&#xE6;ret i gang med slukningsarbejdet, og indtil videre er ca. 100.000 hektar land br&#xE6;ndt af. &#xD;Det er overraskende k&#xF8;ligt p&#xE5; &#xF8;en, 16 grader og stiv kuling. De har ikke haft synderlig med regn i omkring 2 &#xE5;r, s&#xE5; alting er gult og t&#xF8;rt. Vi k&#xF8;rer rundt til forskellige strande. hvor vi bl.a. ser 4 delfiner hyggesv&#xF8;mme helt inde ved kysten. Vandet er helt turkis farvet, og igen bliver vi mindet om Danmark med lyng, sand og marehalm. Vi bes&#xF8;ger Sydaustraliens st&#xF8;rste fyrt&#xE5;rn, der nu drives elektronisk med en s&#xF8;lle 35 watts p&#xE6;re og en k&#xE6;mpe prisme. For Viola er fyrt&#xE5;rnet ekstra sjovt at bes&#xF8;ge, da hun ser Jullerup F&#xE6;rgeby hver aften. &#xD;&#xD;Vi f&#xE5;r k&#xF8;rt meget Landrover, og ser nogle af de afbr&#xE6;ndte omr&#xE5;der. Der br&#xE6;nder stadig ild hist og her, og vi m&#xF8;der brandm&#xE6;nd, der stadig er i gang efter mange d&#xF8;gns arbejde. Vi slutter vores dag ved havnen, hvor en masse k&#xE6;mpestore pelikaner bliver fodret. &#xD;&#xD;Vi er sp&#xE6;ndte p&#xE5; de kommende dage, da alle de steder, hvor vi skulle se p&#xE5; dyr, er br&#xE6;ndt ned og lukkede for bes&#xF8;gende. Nu sidder vi p&#xE5; v&#xE6;relset med computer, Brainage og sovende b&#xF8;rn. Pingvin aftenturen er udskudt p&#xE5; grund af tr&#xE6;thed. </richText>
+  </textBox>
+</content>

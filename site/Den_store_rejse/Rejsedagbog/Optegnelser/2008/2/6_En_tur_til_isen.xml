@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:17 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Fox Glacier</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>En tur til isen</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>onsdag den 6. februar 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="6_En_tur_til_isen_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vi er for alvor kommet til gletcherlandet. Hele aftenen i g&#xE5;r har vi haft den fineste udsigt til Fox gletcheren og her til morgen skal vi trekke op til der hvor isen begynder. Det er ikke verdens l&#xE6;ngste tur, men da b&#xE5;de Viola og Stella er vilde med sten, s&#xE5; tager det sin tid.&#xD;&#xD;Synet af den store ismasse er ret betagende, specielt fordi at solen spiller i den bl&#xE5; is og vejret stadig er med os. Der er mere is end man lige regner med. men Fox er ogs&#xE5; en af de f&#xE5;r gletchere i verden, der rent faktisk vokser i disse &#xE5;r.&#xD;&#xD;Her er &#xE5;benbart meget meget farligt, for der er de vildeste advarselskilte over det hele med alverdens ulykker. Heldigvis sker der os ikke noget og det hele virker ret fredeligt.&#xD;&#xD;Bagefter k&#xF8;rer vi videre til Lake Matheson, som er NZs mest fotograferede s&#xF8;, da Mount Cook p&#xE5; gode dage spejler sig i vandet. Vi ender med at droppe g&#xE5;turen og napper en god frokost i stedet mens vi nyder den flotte udsigt.&#xD;&#xD;Og s&#xE5; g&#xE5;r turen videre til den n&#xE6;ste gletcher by: Franz Josef. Det er den st&#xF8;rste gletcher i omr&#xE5;det, og byen er derfor ogs&#xE5; lidt mere livlig. Vi tjekker helikopterture, og bestemmer os for at vi m&#xE5; op og g&#xE5; p&#xE5; isen, da de stadig lover godt vejr. Vi ender med at booke en tur kl. 9 om morgenen, og s&#xE5; er det ellers afsted til den campingplads vi har valgt, som ligger lidt udenfor byen.&#xD;&#xD;Men her rammes vi af en st&#xF8;rre ulykke: Stellas ene Croc tr&#xE6;sko er pist v&#xE6;k. De er ikke s&#xE5; lette at f&#xE5; i hendes st&#xF8;rrelse, og det er stort set de eneste sko hun har. Vi starter en st&#xF8;rre efters&#xF8;gning og ender med at konstatere, at vi har tabt den, der hvor vi spiste frokost, suk!&#xD;&#xD;Vi er alle tr&#xE6;tte, og t&#xF8;rner tidligt i seng, klar til en tur med chopper i morgen, som Stella bliver ved med at sige. Bare vejret holder ...&#xD;&#xD;/Tim</richText>
+  </textBox>
+</content>

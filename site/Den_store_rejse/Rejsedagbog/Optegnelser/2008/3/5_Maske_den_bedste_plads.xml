@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:26 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>waihi Beach</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>M&#xE5;ske den bedste plads</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>onsdag den 5. marts 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="5_Maske_den_bedste_plads_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="255px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vi tror m&#xE5;ske, at vi har fundet den bedste campingplads p&#xE5; turen, indenfor kategorien, chartercamping. Vi har to kategorier : charterpladser og naturpladser. Charterpladserne er dem med gode badeforhold, legeplads, hoppepude og internetadgang. naturpladserne er dem med den gode beliggenhed men med mindre komfort. &#xD;&#xD;Vi er faktisk blevet lidt magelige her p&#xE5; Nord&#xF8;en, vi ender oftere p&#xE5; Top 10 pladser i stedet for at s&#xF8;ge eventyret, men m&#xE5;ske er det naturligt nok efter over 6 ugers camping. &#xD;&#xD;Waihi er en Top 10 plads med 5 stjerner. Alle campingpladser er kategoriseret, men det er nu ikke altid at stjernerne giver udtryk for tingenes tilstand. Men denne plads har det hele: legeplads, hoppepude, swimmingpool, spa, sauna, motionsrum, b&#xF8;rnerum med leget&#xF8;j gode k&#xF8;kken- og badefaciliteter - og forresten tamme &#xE5;l i &#xE5;en, s&#xE5; de 5 stjerner er velfortjent. Der er ret hyggeligt, og man har forholdsvis god plads mellem camperne, hvilket betyder meget. Der er en rigtig dejlig og nogenlunde b&#xF8;rnevenlig strand, og man kan s&#xE5;gar finde en enkelt plads med havudsigt hist og her.&#xD;&#xD;Dagen g&#xE5;r med sv&#xF8;mning og leg i poolen og p&#xE5; stranden. Der er masser af flotte sneglehuse og muslinger, som vi samler sammen til at lave halsk&#xE6;der af.&#xD;&#xD;Motionsrummet er rigtig fint, s&#xE5; jeg f&#xE5;r tr&#xE6;net et par gange, mens Tim tager en halvmarathon langs stranden. Der er som s&#xE6;dvanlig flere danske b&#xF8;rn, men Viola leger mest med Asta, hun skal rejse hjem til Danmark i morgen. Viola f&#xE5;r et par s&#xF8;lvsko og en badedragt af Asta, det er hun meget glad for. Bare vi nu kan f&#xE5; plads til hele, n&#xE5;r vi om ikke s&#xE5; l&#xE6;nge skal flyve igen. &#xD;&#xD;Vi nyder alle at slappe af i rolige omgivelser.&#xD; &#xD;/Camilla</richText>
+  </textBox>
+</content>

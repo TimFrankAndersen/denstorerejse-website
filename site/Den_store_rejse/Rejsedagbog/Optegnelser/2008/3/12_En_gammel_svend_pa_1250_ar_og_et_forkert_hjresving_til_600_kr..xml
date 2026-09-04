@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:29 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Kaihu</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>En gammel svend p&#xE5; 1250 &#xE5;r og et forkert h&#xF8;jresving til 600 kr.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>onsdag den 12. marts 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_En_gammel_svend_pa_1250_ar_og_et_forkert_hjresving_til_600_kr._files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Selvom her er meget dejligt i Russell, S&#xE5; napper vi alligevel en sidste turistattraktion, nemlig de store tr&#xE6;er ovre p&#xE5; &#xD8;stkysten. P&#xE5; vej derovre, k&#xF8;rer vi en enkel gang til h&#xF8;jre i stedet for venstre, som vores gode navigator siger. Og det skulle vi ikke have gjort, for her st&#xE5;r en politikvinde klar til at give os en b&#xF8;de for ikke at have stoppet helt i krydset. Det er sv&#xE6;rt at argumentere imod, selvom der stort set ingen trafik er, s&#xE5; vi tager imod vores f&#xF8;rste b&#xF8;de og vender karet&#xB4;en for at k&#xF8;re den rigtige vej.&#xD;&#xD;Vejen gennem skoven, som faktisk har rang som subtropisk jungle er rimelig sn&#xF8;rklet, men Viola sidder foran bel&#xE6;rt af erfaringer og bliver derfor ikke k&#xF8;resyg. Vi g&#xE5;r den korte tur ind til det store tr&#xE6;, med en diameter p&#xE5; 5 m. Det er imponerende og tankev&#xE6;kkende at det meste af Nord&#xF8;en en gang var d&#xE6;kket af disse pr&#xE6;gtige tr&#xE6;er. Nu er der kun f&#xE5; tilbage. Dette tr&#xE6; er ca. 1250 &#xE5;r gammelt, s&#xE5; der g&#xE5;r lidt tid fra man planter nye til der igen er skov med k&#xE6;mpekaurier.&#xD;&#xD;Vi k&#xF8;rer til en lille campingplads et sted, der hedder Kaihu. Da vi kommer frem, er vi de eneste p&#xE5; hele campingpladsen, der idyllisk ligger ned til en flod. Vi hygger os og slapper af, mens pladsen langsomt fyldes.&#xD;&#xD;/Tim</richText>
+  </textBox>
+</content>

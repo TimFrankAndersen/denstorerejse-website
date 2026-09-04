@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:16 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Wanaka</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>S&#xF8;ndagshygge</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>s&#xF8;ndag den 3. februar 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="3_Sndagshygge_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vi v&#xE5;gner ved ottetiden, hvad der efterh&#xE5;nden er blevet normen her p&#xE5; New Zealand. Vi taler lidt i telefon med DK, og starter langsomt op med havregr&#xF8;d og kaffe. Det er dejligt vejr udenfor, s&#xE5; vi kan nyde fuglesangen mens vi kigger p&#xE5; de snekl&#xE6;dte tinder, og dr&#xF8;mmer are en lille bitte smule om skiferie. &#xD;Der skal vaskes t&#xF8;j, og alle hj&#xE6;lper med klemmerne. Der leges p&#xE5; legeplads, og s&#xE5; ordner vi vores bil. Pigerne vasker sammen med far, mens jeg checker olien. Camperen er allerede blevet passet og plejet mere end vores biler hjemme i Skovshoved, bare vi kunne v&#xE6;re lige s&#xE5; flittige n&#xE5;r vi vender hjem. &#xD;&#xD;Efter frokost, middagslur og Pedersen &amp; Findus computerspil, tager vi p&#xE5; vandretur til Mt. Iron. Om 2 dage skal Viola vandre 8 kilometer, s&#xE5; vi skal tr&#xE6;ne. Mt. Iron er ca. 500 h&#xF8;jt og der er en spilraltur op til toppen og ned igen. Turen tager os ca. 3 timer inkl. pause, vi digter sange og taler om  alverdens ting, s&#xE5; g&#xE5;r turen meget let. Stella g&#xE5;r n&#xE6;sten hel vejen ned. Det tager tid, da hun skal samle en sten op for hver meter. &#xD;&#xD;Efter turen skal pigerne have en is, og vi skal k&#xF8;be ind. Da vi kommer tilbage p&#xE5; campingpladsen kl. 19.00 er der legekammerater. Viola leger med Bernadette fra Tyskland, bosiddende i HongKong. Legen er en blanding af engelsk,tysk og fingersprog. Viola leger s&#xE5; godt, at hun slet ikke f&#xE5;r aftensmad, men kl. 21.00 er det i seng, efter en kort snak med morfar i Danmark. &#xD;&#xD;Tim er g&#xE5;et i gang med en krimi, s&#xE5; han er meget stille. Jeg nyder en iskold Cola Zero, mens jeg checker mails. Nu kryber jeg til k&#xF8;js med s&#xF8;ndagsavisen. &#xD;/Camilla </richText>
+  </textBox>
+</content>

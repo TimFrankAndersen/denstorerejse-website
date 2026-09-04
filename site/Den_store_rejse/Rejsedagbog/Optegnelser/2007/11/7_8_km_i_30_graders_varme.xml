@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:25:45 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Tid til rejsens f&#xF8;rste l&#xF8;betur</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>8 km i 30 graders varme</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>onsdag den 7. november 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="7_8_km_i_30_graders_varme_files/shapeimage_1.png" left="0px" top="0px" width="374px" height="465px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>B&#xE5;de Camilla og jeg elsker at l&#xF8;be. Og det er en god og nem m&#xE5;de at holde sig nogenlunde i form, uanset hvor man er henne i verden. Vi har derfor begge taget l&#xF8;begrej med, og i dag var det tid til turens f&#xF8;rste tur. Det var meget varmt, men ogs&#xE5; dejligt. Og en n&#xF8;dvendighed, hvis vi ikke skal blive sm&#xE6;lderfede begge to i l&#xF8;bet af de her m&#xE5;neder, for vi f&#xE5;r alts&#xE5; rigtig meget god mad!</richText>
+  </textBox>
+</content>

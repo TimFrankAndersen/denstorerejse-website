@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:43 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Biler med snorkel ?</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Heroppe i regnskoven har bilerne en snorkel. Det synes jeg er ret m&#xE6;rkeligt, men det er fordi det regner ret meget - sidste &#xE5;r faldt der 7 meter regn! Og det betyder at vejene bliver kraftigt oversv&#xF8;mmede. S&#xE5; hvis man skal kunne k&#xF8;re i bil i regns&#xE6;sonen, er bilerne n&#xF8;dt til at have en snorkel s&#xE5; de kan tr&#xE6;kke vejret. Heldigvis er det ikke regns&#xE6;son endnu, s&#xE5; vi har godt vejr.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;torsdag den 29. november 2007&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="29_Biler_med_snorkel_files/shapeimage_1.png" left="0px" top="0px" width="496px" height="372px"/>
+</content>

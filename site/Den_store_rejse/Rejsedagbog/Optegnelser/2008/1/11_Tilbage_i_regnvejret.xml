@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:09 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Fraser Island</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Tilbage i regnvejret</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>fredag den 11. januar 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="11_Tilbage_i_regnvejret_files/shapeimage_1.png" left="0px" top="0px" width="418px" height="228px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vi er nu ankommet til Fraser Island. Det var en noget sej tur. F&#xF8;rst 3 timer i bil fra O&#x2019; Reileys oppe i bjergene i Lamington National Park, hvor vi har haft det rigtig sjovt i 2 dage. S&#xE5; 4 timer med tog til Hervey Bay. Derefter 40 minutter med bus ned til havnen og endelig 40 minutters sejlads, f&#xF8;r vi var fremme. Og s&#xE5; skal vi endda kun v&#xE6;re her en dag. Ikke den smarteste planl&#xE6;gning!&#xD;&#xD;Samtidig s&#xE5; regner det meget kraftigt, hvilket det har gjort her et par uger. Det betyder at stort set alle arrangementer er aflyst. Vi er booket p&#xE5; en heldagstur i morgen, rundt p&#xE5; den 110 km lange &#xF8;, men nu m&#xE5; vi se, om det blive til noget. Vi har netop f&#xE5;et at vide at vi ikke kommer med, hvis vi ikke f&#xE5;r skaffet et b&#xF8;rnes&#xE6;de til Stella. Det skulle vores rejsearrang&#xF8;r have s&#xF8;rget for, men det har de &#xE5;benbart glemt - ikke f&#xF8;rste gang det sker, selvom vi har indprentet for dem, at det skulle de s&#xF8;rge for og ikke s&#xE5; smart!&#xD;&#xD;Men mon ikke vi finder en l&#xF8;sning i morgen tidlig?</richText>
+  </textBox>
+</content>

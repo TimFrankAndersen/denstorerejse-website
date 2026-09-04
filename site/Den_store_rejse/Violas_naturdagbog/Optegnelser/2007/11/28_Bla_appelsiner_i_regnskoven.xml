@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:43 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Bl&#xE5; appelsiner i regnskoven</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Hej derhjemme.&#xD;&#xD;Jeg h&#xE5;ber I har det godt. Jeg er oppe i regnskoven nu, og her er virkelig mange m&#xE6;rkelige ting og dyr. I dag fandt jeg f.eks. nogle sm&#xE5; bl&#xE5; appelsiner!&#xD;&#xD;Min far og mor siger at de hedder Blue Quandong, og at de ikke smager s&#xE5; godt, men at de kan spises. I dag, da vi var ude og sv&#xF8;mme, var der lige pludselig et k&#xE6;mpestort firben, der gik rundt ved vores h&#xE5;ndkl&#xE6;de. Det var en leguan, sagde min far og den var ret s&#xF8;d, men da jeg gik hen til den, s&#xE5; l&#xF8;b den v&#xE6;k.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;onsdag den 28. november 2007&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="28_Bla_appelsiner_i_regnskoven_files/shapeimage_1.png" left="0px" top="0px" width="309px" height="442px"/>
+</content>

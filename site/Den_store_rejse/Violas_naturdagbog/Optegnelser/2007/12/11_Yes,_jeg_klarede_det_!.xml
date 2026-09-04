@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:45 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Yes, jeg klarede det !</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Her er lige et billede fra 5 kilometer m&#xE6;rket. Den sidste kilometer gik det ret meget ned ad, s&#xE5; der fik vi ikke fotograferet. S&#xE5; fik jeg endelig en pause. Mor og far har kameraet fremme hele tiden, man kan n&#xE6;sten ikke engang f&#xE5; lov til at tisse i fred.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;tirsdag den 11. december 2007&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="11_Yes,_jeg_klarede_det_%21_files/shapeimage_1.png" left="0px" top="0px" width="496px" height="372px"/>
+</content>

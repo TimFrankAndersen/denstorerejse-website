@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:13 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Lake Tekapo</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>En kold dukkert</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>s&#xF8;ndag den 20. januar 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="20_En_kold_dukkert_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vi k&#xF8;rer fra Akaroa mod Mt. Cook, hvor vi gerne vil se New Zealands h&#xF8;jeste bjerg, eller det var det ihvertfald indtil, 10 meter sten trillede ned fra toppen. &#xD;Da turen er ret lang, har vi besluttet os for at holde ved Lake Tekapo, der er en smeltevandss&#xF8;, som har en smuk turkis farve. Farven kommer af alt det fine sand, som vandet tager med p&#xE5; dets vandring fra bjergene. &#xD;&#xD;Vi ankommer i t&#xF8;r hede til pladsen, der ligger smukt ved s&#xF8;en, og vi f&#xE5;r en dejlig plads med endnu en sk&#xF8;n udsigt. Bare vi nu ikke bliver for forv&#xE6;ndte :-) Det er s&#xE5; varmt, at vi ikke rigtig kan lave noget, men pigerne leger under en havevander. Vi tager en tur til byen for at k&#xF8;be ind, spise is og fylde benzin p&#xE5;. Inden maden skal vi have en forfriskende badetur - og det er virkelig forfriskende - ca. 10 grader varmt, eller koldt. Det er sk&#xF8;nt, n&#xE5;r man f&#xF8;rst har v&#xE6;nnet sig til kulden, men man t&#xF8;rrer p&#xE5; 2 sekunder, og s&#xE5; kommet heden tilbage.&#xD;&#xD;Igen nyder vi den smukke udsigt, selvf&#xF8;lgelig med et godt glas vin, det har vi vel fortjent (vi finder hver dag p&#xE5; nye grunde til at vi har fortjent et glas vin : k&#xF8;returen, fluerne, en vandretur, tr&#xE6;thed, gl&#xE6;de, savn, hygge, udsigten og meget meget mere). I dette tilf&#xE6;lde er det den smukke stjernehimmel, New Zealands klareste nattehimmel. &#xD;&#xD;Morgenen efter er det tid til en l&#xF8;betur. Det er lidt sv&#xE6;rt at l&#xF8;be p&#xE5; en bjergvandresti med l&#xF8;se sten og masser af kaniner, men det er ufatteligt smukt, og jeg nyder lidt tid med stilhed alene. Efter morgenmad og leg, hvor vi filosoferer lidt over v&#xE6;rdien af legepladser, k&#xF8;rer vi mod Mt. Cook og nye eventyr.&#xD;&#xD;&#xD;&#xD;/Camilla</richText>
+  </textBox>
+</content>

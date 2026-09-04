@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:06 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Sydney</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Godt nyt&#xE5;r til alle derhjemme!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>tirsdag den 1. januar 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="1_Godt_nytar_til_alle_derhjemme%21_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Det er blevet d. 1. januar i Sydney, og klokken har netop sl&#xE5;et 24 i Danmark.&#xD;&#xD;Rigtig godt nyt&#xE5;r til alle derhjemme!!!&#xD;&#xD;Hernede er det dagen derp&#xE5;. Aftenen var en k&#xE6;mpe oplevelse. Sydney forst&#xE5;r virkelig at holde fest. 20.000 pyroteknikere s&#xF8;rgede for det vildeste fyrv&#xE6;rkeri, man kan forestille sig, og det st&#xF8;rste i byens historie. 1 million mennesker kiggede p&#xE5; og s&#xF8;rgede for en lydkulisse som var helt enorm. Vi s&#xE5; det hele fra taget p&#xE5; hotellet, hvilket var et fint sted at st&#xE5;. pigerne gik omkuld ved 22 tiden, men allerede kl. 21 var der et stort &#x201C;b&#xF8;rnefyrv&#xE6;rkeri&#x201D; s&#xE5; de n&#xE5;ede ogs&#xE5; at f&#xE5; holdt fest, inden de faldt i s&#xF8;vn.&#xD;&#xD;Ikke mere herfra nu, hvor vi bare skal slappe af i dag.&#xD;&#xD;God fest til alle, mange glade hilsner fra Camilla og Tim</richText>
+  </textBox>
+</content>

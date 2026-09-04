@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:25:56 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Northern Territory</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Darwins dramatiske historie</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>fredag den 7. december 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="7_Darwins_dramatiske_historie_files/shapeimage_1.png" left="0px" top="0px" width="428px" height="224px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Darwin er et pudsigt sted. P&#xE5; den ene side er Darwin et knudepunkt pga. sin beliggenhed og store havn, hvilket g&#xF8;r byen til et naturligt ankomst sted for varer fra Asien. Der er ogs&#xE5; kortere til Singapore end der er til Sydney. P&#xE5; den anden side er her meget &#xF8;de og s&#xE5; sker der ikke det store. den st&#xF8;rste turistattraktion er et sted, hvor man kan fodre fisk. Her er s&#xE5; til geng&#xE6;ld ogs&#xE5; rigtig mange fisk, og de kommer alle af sig selv ude fra havet.&#xD;&#xD;Darwin har ellers oplevet lidt af hvert. Tilbage i 1942 under 2. verdenskrig, blev byen totalbombet af japanerne pga sin strategiske beliggenhed. Og i 1974 smadrede cyklonen Tracy samtlige huse i byen undtagen et par hundrede. det betyder at det Darwin man m&#xF8;de i dag stort set er bygget inden for de sidste 30 &#xE5;r - alts&#xE5; ingen gamle huse overhovedet. I dag er Darwin hovedstad for Northern Territory og byen har sit egen parlamentsbygning, der af de lokale kaldes for lagkagen fordi som de siger: &#x201C;It is full of fruits and nuts, and it smells like alcohol&#x201D;, efter sigende har parlamentsbygningen 20 barer ...&#xD;&#xD;3 timers busk&#xF8;rsel herfra ligger naturreservatet Kakadu National Park. Parken er p&#xE5; st&#xF8;rrelse med Vietnam, s&#xE5; det er ikke et sted, man klarer p&#xE5; en times tid ...&#xD;&#xD;Vi n&#xE5;r det ikke denne gang, men til geng&#xE6;ld hopper vi i morgen p&#xE5; toget til Adelaide. Der er tale om en klassisk togtur kaldet &#x201C;The Ghan&#x201D; opkaldt efter ruten der i gamle dage fungerede som kamel rute for Afghanere. Det skal nok blive en sp&#xE6;ndende tur.</richText>
+  </textBox>
+</content>

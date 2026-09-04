@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:25:43 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BAGSIDEN AF IT medaljen</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>S&#xE5; er der d&#xF8;mt spaghetti</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>onsdag den 31. oktober 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="31_Sa_er_der_dmt_spaghetti_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vi er stort set f&#xE6;rdige med at pakke nu. Min opgaver er jo (selvf&#xF8;lgelig) at s&#xF8;rge for alle de gadgets jeg har forhandlet mig frem til at m&#xE5;tte tage med. S&#xE5; langt s&#xE5; godt. Men den store udfordring er at sikre at man har alle relevante opladere, adaptere, kabler og andet ekstragrej med, uden at have for meget med. Det bliver ogs&#xE5; til en p&#xE6;n sjat, og det skal nok vise sig at jeg har glemt et kabel eller to, men s&#xE5; m&#xE5; vi jo pr&#xF8;ve at f&#xE5; fat i det p&#xE5; turen.&#xD;&#xD;Et godt tip er en lille lukket nettaske til alle disse accessories. S&#xE5; ved man altid hvor man skal lede efter tingene.</richText>
+  </textBox>
+</content>

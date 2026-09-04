@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:24 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Taupo</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Termiske bade i Taupo</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>s&#xF8;ndag den 24. februar 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="24_Termiske_bade_i_Taupo_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vi n&#xE6;rmer os det termiske vulkanomr&#xE5;de midt p&#xE5; Nord&#xF8;en. Vi er k&#xF8;rt de ca. 150 km fra Napier til Taupo - Byen, der er opkaldt efter den store s&#xF8; Lake Taupo. N&#xE5;r det er godt vejr, er her udsigt til Mount Tongariro, en af de tre vulkanbjerge i Tongariro National Park. Desv&#xE6;rre er der d&#xE5;rlig sigt i dag, og udsigt til let regn, s&#xE5; vi m&#xE5; vente med udsigten.&#xD;&#xD;Vi har fundet noget s&#xE5; eksotisk som en Spa Campingplads. Her er b&#xE5;de mulighed for massage og diverse andre behandlinger, og s&#xE5; er der et helt anl&#xE6;g med termiske bade, hvor det mineralholdige varme vand, kommer direkte fra undergrunden. Det skal selvf&#xF8;lgelig pr&#xF8;ves, s&#xE5; vi indl&#xF8;ser billet til badeland, til stor jubel for pigerne. Her er nemlig ogs&#xE5; en k&#xE6;mpem&#xE6;ssig vandrutchebane og en stor vandlegeplads. S&#xE5; selvom det regner, f&#xE5;r vi en sk&#xF8;n eftermiddag ud af det. Der er noget helt s&#xE6;rligt ved at sidde i 40 grader varmt vand, mens det regner fra himlen. Og s&#xE5; bliver man s&#xE5; dejlig tr&#xE6;t! Efter adskillige ture i vandrutchebanen for b&#xE5;de Stella og Viola, st&#xE5;r den p&#xE5; aftensmad og s&#xE5; direkte i putkassen!</richText>
+  </textBox>
+</content>

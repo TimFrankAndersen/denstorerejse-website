@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:06 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Sydney</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>K&#xF8;benhavn kalder Sydney - kom ind ...</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>tirsdag den 1. januar 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="1_Kbenhavn_kalder_Sydney_-_kom_ind_..._files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Kl. 17.45 lokal tid har jeg aftalt med folkene fra Go&#xB4;Morgen Danmark p&#xE5; TV2, at de stiller live igennem til vores v&#xE6;relse via Skype fra studiet p&#xE5; Hovedbaneg&#xE5;rden i K&#xF8;benhavn. her er klokken kvart i 8 om morgenen.&#xD;&#xD;Vi har talt om det et stykke tid, men er alle lidt nerv&#xF8;se for om det rent teknisk kan lade sig g&#xF8;re, vi taler trods alt om live TV. Men nu pr&#xF8;ver vi, og s&#xE5; m&#xE5; det b&#xE6;re eller briste.&#xD;&#xD;Vi laver en generalpr&#xF8;ve, og det hele ser ud til at virke, efter lidt teknisk knas med kameraet i studiet. &#xD;&#xD;Gennemstillingen g&#xE5;r fint, jeg er live p&#xE5; TV2 i Danmark i 4 minutter over hotellets internetforbindelse via Skype.&#xD;&#xD;Det er utrolig at t&#xE6;nke p&#xE5;, at noget, som for f&#xE5; &#xE5;r siden ville have kostet hunderede tusindvis af kroner i hardware, software og satellit uplinks, i dag kan gennemf&#xF8;res med en simpel internetforbindelse og et gratis software program tilg&#xE6;ngelig for alle. det er virkelig fagre nye verden og utrolig at t&#xE6;nke p&#xE5;.&#xD;&#xD;Vi har brugt Skype en del til at v&#xE6;re i dialog med familie og venner og det er g&#xE5;et fint, men ligefrem at kunne sende live via TV p&#xE5; denne m&#xE5;de fra den anden side af jorden ...&#xD;&#xD;Nu er det tid til et glas champagne :)</richText>
+  </textBox>
+</content>

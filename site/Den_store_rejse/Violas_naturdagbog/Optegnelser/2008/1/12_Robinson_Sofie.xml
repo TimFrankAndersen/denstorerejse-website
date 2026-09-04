@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:49 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Robinson Sofie</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I dag har jeg leget, at jeg var strandet p&#xE5; en &#xF8;de &#xF8;, ligesom Robinson Crusoe. Jeg har bygget et rigtig fint hus, hvor jeg har min bamse, og en masse andre ting. &#xD;Man skal huske at rydde op inden det bliver h&#xF8;jvande, ellers bliver alle tingene skyllet v&#xE6;k.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;l&#xF8;rdag den 12. januar 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_Robinson_Sofie_files/shapeimage_1.png" left="0px" top="0px" width="496px" height="370px"/>
+</content>

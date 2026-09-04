@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:25:50 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>S&#xE5; er vi i Australien</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Exit townsville</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>tirsdag den 20. november 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="20_Exit_townsville_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vi har nu v&#xE6;ret i Townsville i ca. 2 d&#xF8;gn og drager i dag videre.&#xD;&#xD;Hvad er det s&#xE5; for en by vi har bes&#xF8;gt og som har dannet rammen om vores f&#xF8;rste indtryk af dette store kontingent? Tjaee, Townsville er Australiens st&#xF8;rste tropiske by, hvilket m&#xE5; have noget med klimaet at g&#xF8;re. her er masser af smukke strande, men du kan ikke bade fra dem pga Marine Stingers - og det er ikke bare for sjov l&#xE6;ngere, selv de lokale tager det meget alvorligt. Langs strandene er der store advarselsskilte, og bokse med vinegar (eddike) som skulle f&#xE5; dem til at stoppe med at bide, men ikke lindre smerten, som skulle v&#xE6;re forf&#xE6;rdelig.&#xD;&#xD;Det er en hyggelig by, men ogs&#xE5; en soveby, virker det som om. P&#xE5; vores hotel ligger der  et stort casino, og det er lidt pudsigt at se voksne mennesker sidde og tr&#xE6;kke i enarmede tyvekn&#xE6;gte klokken 11 om formiddagen - faktisk er stemningen ret t&#xE6;t p&#xE5; den satireserie, der k&#xF8;rer p&#xE5; DR2: K&#xE6;nguruk&#xF8;bing hedder den vist.&#xD;&#xD;Her er meget stille, og der er lidt Brighton over byen. En stor flot marina, en r&#xE6;kke sp&#xE6;ndende museer og verdens st&#xF8;rste koralrevsakvarium som bestemt er et bes&#xF8;g v&#xE6;rd. Men vi gl&#xE6;der os nu alligevel til at se noget andet af Australien.</richText>
+  </textBox>
+</content>

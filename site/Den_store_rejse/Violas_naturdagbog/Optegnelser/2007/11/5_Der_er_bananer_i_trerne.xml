@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:38 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Der er bananer i tr&#xE6;erne</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I nogle af tr&#xE6;erne gror der sm&#xE5; bananer, men man kan ikke spise dem endnu for de er ikke modne. Min far tror at den r&#xF8;de blomst kan nappe en i fingrene og at den spiser k&#xF8;d, men det tror jeg ikke p&#xE5;.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;mandag den 5. november 2007&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="5_Der_er_bananer_i_trerne_files/shapeimage_1.png" left="0px" top="0px" width="496px" height="372px"/>
+</content>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:57 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Frisk juice</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vi har boet et par dage hos en af fars venner, Ulrik. han havde en k&#xE6;mpe have, med masser af frugt og gr&#xF8;ntsager. Jeg plukkede jordb&#xE6;r, tomater, mandariner, citroner og &#xE6;bler. Det var dejligt, at vi bare kunne spise fra tr&#xE6;erne. jeg fik ogs&#xE5; bl&#xE5;b&#xE6;ris. Jeg smagte en masse mad, men det var lidt for st&#xE6;rkt for mig, s&#xE5; mor m&#xE5;tte hente vores havregryn fra bilen. &#xD;Da far havde f&#xF8;dselsdag lavede jeg selv frisk juice med &#xE6;ble og gulerod, og bagefter med en frugt, der ligner appelsin, men som er st&#xE6;rkere - det kunne jeg ikke s&#xE5; godt lide. &#xD;Mor og far siger, at jeg skal smage lidt af det hele, for hvis man ikke smager, ved man ikke om man kan lide det.....</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;mandag den 18. februar 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="18_Frisk_juice_files/shapeimage_1.png" left="0px" top="0px" width="496px" height="372px"/>
+</content>

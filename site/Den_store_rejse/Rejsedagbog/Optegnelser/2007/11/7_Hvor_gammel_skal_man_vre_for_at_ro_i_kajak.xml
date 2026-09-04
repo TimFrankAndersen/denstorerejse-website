@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:25:46 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>En tur i kajakkerne</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Hvor gammel skal man v&#xE6;re for at ro i kajak?</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>onsdag den 7. november 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="7_Hvor_gammel_skal_man_vre_for_at_ro_i_kajak_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>N&#xE5;r vi senere p&#xE5; turen kommer til Abel Tasman p&#xE5; New Zealand har vi store planer om en l&#xE6;ngere kajaktur i det meget smukke naturreservat. men vi har v&#xE6;ret meget i tvivl om det kunne lade sig g&#xF8;re med en lille prut p&#xE5; under 2 &#xE5;r. derfor var det en fin mulighed at kunne teste konceptet af her i Krabi. Vi roede derfor afsted langs kysten, og det gik rigtig fint. begge piger holdt sig inden borde og ville i&#xF8;vrigt helst selv ro, hvilet satte farten noget ned, men det var stadig sjovt. Vi kom helskindede i land, og tror nu mere p&#xE5; kajakprojektet end f&#xF8;r.</richText>
+  </textBox>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:05 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Sydney</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>En dag p&#xE5; Bondi Beach</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>s&#xF8;ndag den 30. december 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_En_dag_pa_Bondi_Beach_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="243px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vi havde sat os for, at i dag skulle v&#xE6;re store stranddag. S&#xE5; vi st&#xE5;r rigtig tidligt op, og tager en taxi til stationen, hvorfra vi kan tage en bus ud til Sydneys nok mest kendte strand: Bondi Beach. Vi spiser morgenmad og drikker kaffe i den &#xE5;bne dobbeltd&#xE6;kkerbus, mens solen skinner og der bl&#xE6;ser en dejlig brise. &#xD;&#xD;Vi er fremme ved stranden kl. 9:45, hvilket er rimelig tidligt, n&#xE5;r du ogs&#xE5; skal have to t&#xF8;ser med og have pakket alt til en lang dag p&#xE5; stranden. men allerede p&#xE5; dette tidspunkt er der p&#xE6;nt med mennesker. Stranden er vidunderlig og vandet er endnu l&#xE6;krere. ikke s&#xE5; m&#xE6;rkeligt at stedet er ber&#xF8;mt over det meste af verden. Vi bader p&#xE5; livet l&#xF8;s i de k&#xE6;mpestoreb&#xF8;lger, selvom det er ligelovlig h&#xE5;rd kost for Stella der gang p&#xE5; gang bliver v&#xE6;ltet omkuld.&#xD;&#xD;Der kommer hele tiden flere mennesker til, og nu er der ogs&#xE5; en masse sv&#xF8;mmere, der &#xE5;benbart skal ud og pr&#xF8;ve kr&#xE6;fter med havsv&#xF8;mning. Det viser sig at v&#xE6;re &#x201C;The Bondi Beach Swimclub&#x201D;, en meget fin sv&#xF8;mmeklub, hvor man f&#xF8;rst kan blive optaget, n&#xE5;r man hver s&#xF8;ndag, 4 &#xE5;r i tr&#xE6;k, har sv&#xF8;mmet en passende lang distance i havet. i al slags vejr. hajer eller ingen hajer ...&#xD;&#xD;Ved et tiden har vi f&#xE5;et sol nok. Vi pakker og g&#xE5;r op i byen f&#xE5;r at f&#xE5; noget frokost, bagefter tager vi hjem, godt tr&#xE6;tte af de mange indtryk og de utrolig mange mennesker. Om aftenen g&#xE5;r vi p&#xE5; jagt efter en god restaurant. Viola f&#xE5;r lov at bestemme, s&#xE5; vi ender s&#xE5;m&#xE6;nd p&#xE5; Tysk bierstube til Schnitzel mit bratwurst, tyrolermusik og k&#xE6;mpestore p&#xF8;lser. Pigerne nyder det, og de skal ogs&#xE5; have lov at v&#xE6;lge engang imellem :)&#xD;&#xD;I morgen er det store nyt&#xE5;rsdag. hele byen er allerede nu p&#xE5; den anden ende. Mange omr&#xE5;der er lukket af, og der skal v&#xE6;re fester over det hele. Vi er sp&#xE6;ndte og gl&#xE6;der os. Arrangementet starter allerede kl. 13, og der skal vi nok v&#xE6;re p&#xE5; plads p&#xE5; altanen...</richText>
+  </textBox>
+</content>

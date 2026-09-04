@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:07 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Heron Island</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>I dag er det Stellas f&#xF8;dselsdag - hurra hurra hurra!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>fredag den 4. januar 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="4_I_dag_er_det_Stellas_fdselsdag_-_hurra_hurra_hurra%21_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vores yngste fylder 2 &#xE5;r i dag. Hun v&#xE5;gner rimelig tidlig og taler om julegaver og kage. Hun har ogs&#xE5; l&#xE6;rt at sige at hun er 2 &#xE5;r, men derudover tror vi ikke helt hun forst&#xE5;r hvad det drejer sig om. Alligevel synger vi for hende og hun f&#xE5;r et par meget meget sm&#xE5; gaver, som v&#xE6;kker stor begejstring. Vejret er sk&#xF8;nt p&#xE5; trods af de d&#xE5;rlige vejrudsigter. Det har bl&#xE6;st virkelig meget og &#xF8;en har n&#xE6;rmest v&#xE6;ret evakueret for bare en uge siden. Alt har v&#xE6;ret aflyst de sidste 6 dage, men i dag starter de dykningen op igen - heldigvis.&#xD;&#xD;Jeg tager med ud kl. 11. Det er bestemt ikke et dyk, der g&#xE5;r over i historien. Sigtbarheden er stadig ret d&#xE5;rlig, og vi ser ikke det store. De lover dog at det nok skal blive bedre de n&#xE6;ste par dage, men s&#xE5; er der til geng&#xE6;ld ogs&#xE5; en cyklon p&#xE5; vej ...&#xD;&#xD;Snorklingen er til geng&#xE6;ld for vanvittig. F&#xE5; meter fra vores terrasse sv&#xF8;mmer hajer og Rokker forbi, s&#xE5; man let kan spotte dem med &#xF8;jnene. Vi snorkler og fotograferer p&#xE5; livet l&#xF8;s. Det er rigtig rigtig sjovt!&#xD;&#xD;Om aftenen har vi bestilt en stor lagkage til Stella, og det er noget den lille dame kan bruge. &#x201C;Min kage&#x201D; erkl&#xE6;rer hun h&#xF8;jlydt og guffer s&#xE5; l&#xF8;s til hun ikke kan rokke med &#xF8;rene.&#xD;&#xD;Tidligt i seng, for i morgen skal der dykkes igennem.&#xD;&#xD;/Tim</richText>
+  </textBox>
+</content>

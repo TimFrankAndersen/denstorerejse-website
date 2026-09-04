@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:42 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Jeg har v&#xE6;ret p&#xE5; bes&#xF8;g hos kaptajnen</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I dag var min far og jeg oppe og se hvor kaptajnen styrer vores skib. Han har et flot styrehus, men jeg kan ikke rigtig finde ud af hvor han sover henne?&#xD;&#xD;Vi var deroppe fordi en meget sj&#xE6;lden tr&#xE6;kfugl var landet p&#xE5; vores skib. Den hedder en &#x201C;brown booby&#x201D; og kan flyve flere m&#xE5;neder uden at lande. Den var s&#xF8;d som den sad og vippede for b&#xF8;lgerne s&#xE5; den ikke faldt i vandet. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;mandag den 26. november 2007&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="26_Jeg_har_vret_pa_besg_hos_kaptajnen_files/shapeimage_1.png" left="0px" top="0px" width="496px" height="372px"/>
+</content>

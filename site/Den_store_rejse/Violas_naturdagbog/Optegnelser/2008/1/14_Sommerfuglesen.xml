@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:53 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Sommerfugles&#xF8;en</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I dag har jeg v&#xE6;ret p&#xE5; tur med mor og far uden Stella, det er meget rart engang imellem. Vi har k&#xF8;rt med bus rundt p&#xE5; en stor &#xF8;, der er lavet af sand. Bussen hoppede og dansede, s&#xE5; det kildede i maven, men s jeg sad og h&#xF8;rte MGP David N&#x2019;Day. &#xD;Vi badede i en k&#xE6;mpe s&#xF8;, hvor vi vaskede min mors h&#xE5;r med sand, s&#xE5; det blev helt blankt. Jeg fandt ud af, at jeg kan sv&#xF8;mme nu, helt uden vinger eller b&#xE6;lte Hurraaaa. &#xD;Vi tog ogs&#xE5; en flyvetur, hvor flyveren lettede og landede p&#xE5; stranden. jeg tog nogle fotografier, bla. af en s&#xF8;, der har form som en sommerfugl. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;mandag den 14. januar 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="14_Sommerfuglesen_files/shapeimage_1.png" left="0px" top="0px" width="496px" height="372px"/>
+</content>

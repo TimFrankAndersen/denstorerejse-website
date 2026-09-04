@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:25:51 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Great Barrier Reef</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Anden dag p&#xE5; revet</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>onsdag den 21. november 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="21_Anden_dag_pa_revet_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Puhha, vi skal tidlig op. Der er morgenmad kl.7 og allerede kl. 8 sejler vi ind til Orpheus for at fodre fisk og g&#xE5; en morgentur. N&#xE6;ste stop hedder Pelorus Island, og her bliver vi heldigvis hele formiddagen. Vi f&#xE5;r snorklet for f&#xF8;rste gang, Viola er vildt sej til det, og nyder b&#xE5;de fisk, koraller og Giant Clams. Camilla ser sit snit til et rigtigt dyk, der dog er noget af en skuffelse pga d&#xE5;rlig sigt. Kl. 13 sejler vi tilbage til skibet og her er der gjort klar til BBQ frokost. Derefter s&#xE6;tter vi kursen mod Hinchinbrook kanalen, der virkelig er smuk. Ved 17.30 tiden tager vi p&#xE5; en tur ind i mangroven med glasbundsb&#xE5;den der altid fragter os rundt. Der er helt stille og efter sigende er der b&#xE5;de delfiner og krokodiller. Vi ser dog ikke nogen, men p&#xE5; vej tilbage til b&#xE5;den dukker der pludselig en forholdsvis tor haj op - et sj&#xE6;ldent syn p&#xE5; de kanter. Vi spiser aftensmad og t&#xF8;rner godt tr&#xE6;tte ind ved 22 tiden.</richText>
+  </textBox>
+</content>

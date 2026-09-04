@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:03 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Melbourne</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Julehall&#xF8;j</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>tirsdag den 25. december 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="25_Julehallj_files/shapeimage_1.png" left="0px" top="0px" width="416px" height="258px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>S&#xE5; er julen overst&#xE5;et her d. 25. december, hvor Tim og jeg ligger i sengen og ser en film. Vores hotelv&#xE6;relse er nu proppet med julegaver fra familie og venner. Ungerne er g&#xE5;et fuldst&#xE6;ndig kolde, efter et par hektiske dage. I g&#xE5;r da vi k&#xF8;rte mod Melbourne, blev begge pigerne k&#xF8;resyge, s&#xE5; vi m&#xE5;tte k&#xF8;re v&#xE6;k fra Great Ocean Road, og vi ankom s&#xE5; til vores dejlige hotel ret ildelugtende. Pigerne var rigtig glade for at f&#xE5; bes&#xF8;g hjemmefra. Vi hyggede resten af dagen, og om aftenen s&#xE5; vi sidste l&#xE5;ge blive &#xE5;bnet i en interaktiv julekalender, der var stillet op p&#xE5; Federation Square. Hjem i seng alt for sent. &#xD;&#xD;I dag har vi spist morgenmad, badet, pyntet juletr&#xE6; og ordnet de sidste gaver. Ved middagstid har vi spist en julemiddag,hvor julemanden kom p&#xE5; bes&#xF8;g. Herefter dans om juletr&#xE6;et, masser af sange og gaver. Det pink juletr&#xE6; er pyntet virkelig fint, og pigerne er meget glade for deres gaver fra mor, far, farmor, farfar, morfar Christian, Oldefar, Gurli, Mogens, Nicolai, Oliver, Dorte og Michael. Vi har v&#xE6;ret lidt ude i det gode vejr, men Viola og Stella er nu lagt i seng - de kunne slet ikke mere. Stella var ikke s&#xE5;dan lige at f&#xE5; til at sove, s&#xE5; vi har h&#xF8;rt &#x201C;Nu er det jul igen&#x201D; et par gange fra sengen. Hun faldt i s&#xF8;vn med et &#x201C;Gl&#xE6;delig Jul&#x201D; p&#xE5; l&#xE6;berne og det var sv&#xE6;rt ikke at grine i m&#xF8;rket, n&#xE5;r man ovre fra babysengen med j&#xE6;vne mellemrum h&#xF8;rte et &#x201C;God Jul&#x201D;. &#xD;&#xD;I morgen skal vi n&#xE5; at se lidt af byen. Der er cricket match mellem Australien og Indien, hvilket tr&#xE6;kker op mod 100.000 tilskuere i de 5 dage, kampen varer! Det indiske cricket landshold bor her p&#xE5; hotellet, og indgangen er belejret med fans d&#xF8;gnet rundt, det virker som om det halve af Indien er kommet til byen.&#xD;/Camilla.</richText>
+  </textBox>
+</content>

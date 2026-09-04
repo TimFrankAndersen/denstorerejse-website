@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:11 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>V&#xE6;relse med udsigt</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>fredag den 18. januar 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="18_Vrelse_med_udsigt_files/shapeimage_1.png" left="0px" top="0px" width="443px" height="211px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vi sidder i vores camper p&#xE5; en bakketop og kigger ud over en bugt. Solen er lige g&#xE5;et ned over bjergtoppen, lysene er ved blive t&#xE6;ndt i byen, og k&#xF8;rerne er g&#xE5;et hjem til aftenmalkningen. Vi har den sk&#xF8;nneste udsigt. Vi fik en tip af nogle holl&#xE6;ndere i Christchurch om at k&#xF8;re til den lille franske koloni Akaroa, der ligger p&#xE5; Banks Peninsula, ca 80 km fra Christchurch. Ruten er lidt uden for den almene turistrute, s&#xE5; her er forholdsvis stille og fredeligt. Vi har indtil videre ogs&#xE5; kun set en dansk familie...&#xD; &#xD;Vi er tr&#xE6;tte, men p&#xE5; en god m&#xE5;de. Vi har spist nogle l&#xE6;kre lammekoteletter til aften, det er f&#xF8;rste gang vi smager frisk New Zealandsk lam - det er godt. I morgen har vi besluttet at k&#xF8;re videre, da vi vil se Mount Cook, det h&#xF8;jeste bjerg p&#xE5; New Zealand. Det bliver sp&#xE6;ndende at se hvor langt vi kan klare at k&#xF8;re om dagen. I dag faldt pigerne i s&#xF8;vn, lige efter afgang, de sidder rigtig godt, og har en masse plads. Det er en ordentlig kasse at k&#xF8;re rundt i, specielt p&#xE5; sm&#xE5; snoede bjergveje. </richText>
+  </textBox>
+</content>

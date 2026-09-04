@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:25:48 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Island hopping i Den Thailandske sk&#xE6;rgaard</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Tilbage til Krabi</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>onsdag den 14. november 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="14_Tilbage_til_Krabi_files/shapeimage_1.png" left="0px" top="0px" width="419px" height="220px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vi v&#xE5;gner rigtig tidligt alle sammen. Vores island hopping tur slutter i dag, og vi skal have pakket, spist morgenmad og sige farvel inden vores b&#xE5;d henter os fra stranden kl. 8.30. Resortet p&#xE5; Koh Sukorn har v&#xE6;ret en sk&#xF8;n oplevelse, helt stille og fedfyldt med kun 20 hytter, og meget f&#xE5; g&#xE6;ster p&#xE5; denne tid af &#xE5;ret. En utrolig smuk &#xF8; og et dejligt simpelt liv med masser af s&#xF8;de mennesker. Det er et sted vi sagtens kan anbefale, hvis man ikke prioriterer luksus og hvid sandstrand h&#xF8;jest, men i stedet vil opleve det rigtige Thailand.&#xD;&#xD;Turen tilbage til Krabi er blevet noget l&#xE6;ngere, da vi jo har sejlet godt 100 km yderligere sydp&#xE5;. Vi er fremme over middag og bliver tager rigtig fint imod af vores danske ven Odni, der jo arbejder p&#xE5; Centara. Vi n&#xE5;r ogs&#xE5; at snakke, lege og sige farvel til vores venner Karen, J&#xFC;rgen og Herbert, som tilf&#xE6;ldigvis ogs&#xE5; bor p&#xE5; Centara, men som skal videre i morgen. Verden er rimelig lille...&#xD;&#xD;En sk&#xF8;n og sp&#xE6;ndende uge er slut. Vi er meget m&#xE6;tte af oplevelser og gl&#xE6;der os til nogle stille dage inden vi s&#xE6;tter kursen mod Australien d. 17.11. Utroligt at vi kun har v&#xE6;ret afsted i 14 dage. gad vide om man kan rumme alle de indtryk?</richText>
+  </textBox>
+</content>

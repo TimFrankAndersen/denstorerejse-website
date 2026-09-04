@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:54 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Isbjerget</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I g&#xE5;r var vi p&#xE5; en vandretur oppe i bjergene, vi gik hen til en s&#xF8;, hvor der fl&#xF8;d isbjerge rundt. Det var underligt, for det er jo sommer, men isen er br&#xE6;kket af noget, der hedder en gletscher, hvor der er is hele &#xE5;ret. Det er n&#xE6;rmest en vandrende isslange, der kommer ned mellem bjergene. S&#xE5;dan har min mor og far forklaret det, men m&#xE5;ske ved de ikke helt hvad det er.....</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;onsdag den 23. januar 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_Isbjerget_files/shapeimage_1.png" left="0px" top="0px" width="475px" height="357px"/>
+</content>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Fotos fra vores rejse</title>
+    <link>/Den_store_rejse/Fotos_Thailand/Fotos_Thailand.html</link>
+    <description>Vores lange drømmerejse startede i Thailand.
+
+Her er vores bedste billeder fra ugerne i dette skønne land.</description>
+    <item>
+      <title>En dag på Phi Phi</title>
+      <link>/Den_store_rejse/Fotos_Thailand/Sider/En_dag_pa_Phi_Phi.html</link>
+      <guid isPermaLink="false">6324a98e-edcf-4161-8795-c60258611747</guid>
+    </item>
+    <item>
+      <title>Island Hopping i Syd Thailand</title>
+      <link>/Den_store_rejse/Fotos_Thailand/Sider/Island_Hopping_i_Syd_Thailand.html</link>
+      <guid isPermaLink="false">c887caaa-c422-4773-9c79-a1814c9b62dc</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:16 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Wanaka</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Mountain bike med anh&#xE6;nger og rock i bjergene</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>l&#xF8;rdag den 2. februar 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="2_Mountain_bike_med_anhnger_og_rock_i_bjergene_files/shapeimage_1.png" left="0px" top="0px" width="419px" height="269px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vi er kommet til Wanaka, som ligner en mindre udgave af Queenstown. Byen ligger ved en smuk s&#xF8; (endnu en) og hele omr&#xE5;det er omkranset af flotte bjerge. Stedet er et kendt skisportssted om vinteren, prim&#xE6;rt med fokus p&#xE5; heliskiing og offpiste, og om sommeren, ja der kan man igen foretage sig lidt af hvert: canyoning, bjergklatring, faldsk&#xE6;rmsudspring og mountainbiking.&#xD;&#xD;Vejret er igen blevet godt, og vi l&#xE6;nges efter en gang motion, s&#xE5; vi tage ind til byen for at leje nogle mountainbikes. Camilla f&#xE5;r en med en stol til Stella, og Viola f&#xE5;r en cykel sp&#xE6;ndt p&#xE5; min, s&#xE5; hun kan tr&#xE6;de med.&#xD;&#xD;Da der jo skal v&#xE6;re stor rockkoncert i byen i dag, beslutter vi at flytte til en roligere campingplads, inden vi cykler afsted.&#xD;&#xD;Der er masser af gode mountainbike ruter langs s&#xF8;en og op i bakkerne. Vi cykler v&#xE6;k fra koncerten og f&#xE5;r en sk&#xF8;n tur med vind i h&#xE5;ret og vidunderlig udsigt til s&#xF8; og bjerge. Vi har madpakker med og pigerne nyder turen og motionen. &#xD;&#xD;Tilbage p&#xE5; vores hyggelige plads, er solen for alvor brudt igennem, og vi hygger p&#xE5; gr&#xE6;sset og leger, mens rockmusikken dr&#xF8;ner i baggrunden. Det m&#xE5; v&#xE6;re nogle af de smukkeste rammer for en festival. &#xD;&#xD;Musikken forts&#xE6;tter hele aftenen, men solen g&#xE5;r ned og farver himmelen lyser&#xF8;d. Der er stadig sne p&#xE5; bjergtoppene, og det hele er ret dejligt. Rart, efter en v&#xE5;d og lidt kikset dag i g&#xE5;r.&#xD;&#xD;/Tim</richText>
+  </textBox>
+</content>

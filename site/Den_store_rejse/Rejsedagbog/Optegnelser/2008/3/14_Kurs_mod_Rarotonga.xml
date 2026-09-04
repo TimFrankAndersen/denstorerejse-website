@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:29 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Auckland</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Kurs mod Rarotonga</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>fredag den 14. marts 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="14_Kurs_mod_Rarotonga_files/shapeimage_1.png" left="0px" top="0px" width="418px" height="199px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vi v&#xE5;gner til en krystalklar lysebl&#xE5; himmel. Solen er ved at st&#xE5; op over bugten ved Auckland - New Zealands svar p&#xE5; Sydney. Her ligger ca. 80.000 b&#xE5;de, og man fornemmer at det er en sejlsportsnation, n&#xE5;r man kigger ud over vandet, der allerede er fyldt med alle former for fart&#xF8;jer.&#xD;&#xD;Vi skal have gjort bilen rent og pakket det sidste inden vi afleverer vores camper kl. 11. Det giver os en dags tid inde i Auckland inden vi i aften ved 22 tiden flyver mod Polynesien og sidste del af vores eventyr.&#xD;&#xD;2 dejlige m&#xE5;neder er forbi, men vi gl&#xE6;der os til rigtige senge og lidt comfort.&#xD;&#xD;Forh&#xE5;bentlig kan vi rapportere ude fra Cook &#xF8;erne ogs&#xE5;.&#xD;&#xD;Over and out herfra.&#xD;&#xD;Mange glade hilsner&#xD;&#xD;Camilla, Viola, Stella og Tim</richText>
+  </textBox>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:58 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas Naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Museum</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vi har v&#xE6;ret p&#xE5; et rigtig sjovt museum i dag. Man kunne v&#xE6;ve, spille p&#xE5; tromme, kl&#xE6;de sig ud, se p&#xE5; ting i et mikroskop, se st&#xF8;rrelsen p&#xE5; dinosaurus f&#xF8;dder, opleve et jordsk&#xE6;lv og se masser af skelletter. &#xD;Der var ogs&#xE5; en rigtig k&#xF8;bmandsbutik med kasseapparat og varer. Jeg s&#xE5; ogs&#xE5; en rigtig flot krigkano, der var bygget af de mennesker, der f&#xF8;rst kom til New Zealand - de hedder Maorier. De er sejlet her til, for mange &#xE5;r siden, langt v&#xE6;k fra.  Jeg s&#xE5; deres huse, og nogle flotte smykker. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;tirsdag den 26. februar 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="26_Museum_files/shapeimage_1.png" left="0px" top="0px" width="496px" height="372px"/>
+</content>

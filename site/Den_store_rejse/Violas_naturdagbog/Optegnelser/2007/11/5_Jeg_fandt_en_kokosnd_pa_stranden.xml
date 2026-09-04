@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:38 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Jeg fandt en kokosn&#xF8;d p&#xE5; stranden</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Nede p&#xE5; stranden ligger der kokosn&#xF8;dder i sandet. Der er ogs&#xE5; helt sm&#xE5; kokosn&#xF8;dder. Min far og mor siger at noget af det farligste hernede er at f&#xE5; en kokosn&#xF8;d i hovedet, n&#xE5;r de falder ned fra tr&#xE6;erne. De h&#xE6;nger nemlig rigtig h&#xF8;jt oppe.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;mandag den 5. november 2007&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="5_Jeg_fandt_en_kokosnd_pa_stranden_files/shapeimage_1.png" left="0px" top="0px" width="424px" height="556px"/>
+</content>

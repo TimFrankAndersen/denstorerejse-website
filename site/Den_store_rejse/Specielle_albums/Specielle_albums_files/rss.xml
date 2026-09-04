@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Fotos fra vores rejse</title>
+    <link>/Den_store_rejse/Specielle_albums/Specielle_albums.html</link>
+    <description>Her på siden har vi samlet nogle af vores billeder i specielle temaer, som, når man har taget nok billeder, pludselig bliver ret sjove, eller viser en anden side af sådan en lang rejse.</description>
+    <item>
+      <title>It´s Very Dangerous</title>
+      <link>/Den_store_rejse/Specielle_albums/Sider/Its_Very_Dangerous.html</link>
+      <guid isPermaLink="false">8911d034-74c0-41ca-928d-2cc9f8f0aa5d</guid>
+    </item>
+    <item>
+      <title>New Zealands flora</title>
+      <link>/Den_store_rejse/Specielle_albums/Sider/New_Zealands_flora.html</link>
+      <guid isPermaLink="false">519b62a8-14cd-404b-bd62-70e75e0c647e</guid>
+    </item>
+    <item>
+      <title>Camperliv</title>
+      <link>/Den_store_rejse/Specielle_albums/Sider/Camperliv.html</link>
+      <guid isPermaLink="false">fc4576f0-4025-4a64-8a49-1ff7a120b3e1</guid>
+    </item>
+  </channel>
+</rss>

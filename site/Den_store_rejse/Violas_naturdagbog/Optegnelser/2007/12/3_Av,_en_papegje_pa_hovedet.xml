@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:44 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Av, en papeg&#xF8;je p&#xE5; hovedet</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Da vi var inde for at bes&#xF8;ge en masse papeg&#xF8;jer, var der pludselig en, der fl&#xF8;j hen og satte sig p&#xE5; mit hovede (m&#xE5;ske fordi jeg havde fuglefoder i h&#xE5;nden). Jeg blev ret forskr&#xE6;kket, og jeg skal hilse og sige at det ogs&#xE5; g&#xF8;r smadder ondt, fordi papeg&#xF8;jer har meget spidse kl&#xF8;er. Jeg gr&#xE6;d lidt, men s&#xE5; fik jeg en lille paraply, s&#xE5; de ikke l&#xE6;ngere kunne lande p&#xE5; mit hoved, og s&#xE5; var det meget sjovt.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;mandag den 3. december 2007&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="3_Av,_en_papegje_pa_hovedet_files/shapeimage_1.png" left="0px" top="0px" width="496px" height="372px"/>
+</content>

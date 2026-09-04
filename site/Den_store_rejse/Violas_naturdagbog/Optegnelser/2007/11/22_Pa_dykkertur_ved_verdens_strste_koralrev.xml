@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:42 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>P&#xE5; dykkertur ved verdens st&#xF8;rste koralrev</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Jeg er ude og sejle med min mor og far og min lilles&#xF8;ster. Vi dykker rigtig meget og det er smadder sjovt. Jeg har l&#xE6;rt at bruge en snorkel og finner, s&#xE5; jeg kan sv&#xF8;mme rundt og se p&#xE5; fiskene. &#xD;&#xD;Der er rigtig mange af dem! Min yndlingsfisk er en nemofisk. vi har desv&#xE6;rre ikke st nogle skildpadder endnu, men korallerne er virkelig flotte.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;torsdag den 22. november 2007&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_Pa_dykkertur_ved_verdens_strste_koralrev_files/shapeimage_2.png" left="0px" top="0px" width="495px" height="355px"/>
+</content>

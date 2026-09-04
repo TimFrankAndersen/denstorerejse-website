@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:00 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Mod kysten</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Debut p&#xE5; Japansk TV</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>torsdag den 13. december 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="13_Debut_pa_Japansk_TV_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Lige siden Darwin er vi igen og igen st&#xF8;dt p&#xE5; et japansk TV hold, der er p&#xE5; bes&#xF8;g for at lave et l&#xE6;ngere program om Australien til en ny rejsekanal. Vi f&#xF8;lger &#xE5;benbart nogenlunde samme rute, og det viser sig at de ogs&#xE5; skal med toget. Vi bliver efterh&#xE5;nden gode venner med dem. De filmer familien Andersen p&#xE5; livet l&#xF8;s alle mulige steder, og specielt Viola og Stella, som der er ret begejstrede for. Vi fort&#xE6;ller dem om vores webprojekt og giver dem adressen. Det synes de er ret sp&#xE6;ndende, og de lover at sende programmet til os p&#xE5; DVD, n&#xE5;r de er hjemme igen.&#xD;&#xD;Vi bliver ogs&#xE5; inviteret p&#xE5; bes&#xF8;g i Japan, hvilket kunne have v&#xE6;ret rigtig sjovt, men det passer ikke rigtig ind i vores planer, men hvem ved, m&#xE5;ske en anden gang?</richText>
+  </textBox>
+</content>

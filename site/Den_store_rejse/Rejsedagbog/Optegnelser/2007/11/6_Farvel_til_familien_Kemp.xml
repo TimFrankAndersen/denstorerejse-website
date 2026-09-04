@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:25:45 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>S&#xE5; er vi alene</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Farvel til familien Kemp</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>tirsdag den 6. november 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="6_Farvel_til_familien_Kemp_files/shapeimage_1.png" left="0px" top="0px" width="387px" height="212px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Efter en lille uge sammen med vores gode venner Dorthe og Michael og deres r&#xF8;dder, er det nu tid til at de skal videre til Bangkok. Det er rimelig trist at sige farvel, n&#xE5;r man ved at vi ikke ses f&#xF8;r til for&#xE5;ret. men til geng&#xE6;ld har det v&#xE6;ret en rigtig god start p&#xE5; vores lange tur. &#xD;&#xD;Der er lidt sommerfugle i maven og en enkel lille t&#xE5;re i &#xF8;jenkrogen, da vi tager afsked. Nu starter turen p&#xE5; en m&#xE5;de for alvor for os. Nu skal vi til at v&#xE6;re alene, bare os fire og have en hverdag til at fungere.&#xD;&#xD;Vi vinker farvel til b&#xE5;den, der sejler dem tilbage til Ao Nang, og tudser eftert&#xE6;nksomme tilbage til stranden.</richText>
+  </textBox>
+</content>

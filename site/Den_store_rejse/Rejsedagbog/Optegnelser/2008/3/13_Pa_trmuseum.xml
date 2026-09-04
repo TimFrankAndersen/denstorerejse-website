@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:29 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Fra Kaihu til Orewa, Auckland</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>P&#xE5; tr&#xE6;museum</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>torsdag den 13. marts 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="13_Pa_trmuseum_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vi skal videre mod Auckland, da vores tid p&#xE5; Nord&#xF8;en er ved at v&#xE6;re slut. P&#xE5; vejen k&#xF8;rer vi forbi Kauri museet, vel et af verdens eneste museer for tr&#xE6;...&#xD;&#xD;Det koster os den nette sum af 250 kr. at komme ind, og selvom man skal v&#xE6;re ret s&#xE5; tr&#xE6; interesseret for at synes at det er pengene v&#xE6;rd, s&#xE5; er det nu meget sjovt alligevel. Her er en k&#xE6;mpe samling af New Zealands Rav, kaldet gum, der netop kom fra kauritr&#xE6;erne, og der er en masse eksempler p&#xE5; hvor store tr&#xE6;erne har v&#xE6;ret og hvordan man bar sig ad med at f&#xE6;lde stort set alle sammen.&#xD;&#xD;Vi slutter bes&#xF8;get p&#xE5; en hyggelig lille cafe, hvor nogle &#xE6;ldre damer har lavet hjemmebagte bl&#xE5;b&#xE6;rmuffins med gammeldags fl&#xF8;deskum, mums !&#xD;&#xD;Vi har v&#xE6;ret lidt i tvivl om, hvor det var smartest at bo i Auckland, og er endt med at v&#xE6;lge en plads ca. 30 km fra byen men ud til vandet. Her viser sig dog at v&#xE6;re godt fyldt op, s&#xE5; vi f&#xE5;r med n&#xF8;d og n&#xE6;ppe en plads, der ikke er alt for god. Og pudsigt nok er her ikke netforbindelse, p&#xE5; trods af at vi nu er kommet til landets st&#xF8;rste &#xF8;.&#xD;&#xD;men vi bliver natten over, og s&#xE5; m&#xE5; vi se hvad vi finder p&#xE5; i morgen - vores sidste hele dag i landet.&#xD;&#xD;/Tim</richText>
+  </textBox>
+</content>

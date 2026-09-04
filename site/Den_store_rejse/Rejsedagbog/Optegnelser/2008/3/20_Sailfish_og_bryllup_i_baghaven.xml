@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:31 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Rarotonga</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Sailfish og bryllup i baghaven</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>torsdag den 20. marts 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="20_Sailfish_og_bryllup_i_baghaven_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Den sidste uge er fl&#xF8;jet afsted. Det har virkelig v&#xE6;ret sk&#xF8;nt med en fast base, og s&#xE5; er Rarotonga bare en vidunderlig &#xF8;, hvor &#x201C;simple living&#x201D; dyrkes til det yderste.&#xD;&#xD;Det tiltr&#xE6;kker &#xE5;benbart ogs&#xE5; mange brudepar, for de sidste tre dage har der v&#xE6;ret bryllupper i haven lige uden for vores hus. Lige nu sidder jeg f.eks. og lytter til dunkende disco rytmer, mens 30 halvfulde Australiere danser rundt i bare t&#xE6;er p&#xE5; gr&#xE6;sset.&#xD;&#xD;Vandet omkring &#xF8;en er fantastisk klart og her er et heftigt fiskeliv. Jeg fik mulighed for at dykke 2 gange en dag, og det var ret sp&#xE6;ndende. Vores instrukt&#xF8;r Patrick fortalt om en tysker, der dagen f&#xF8;r havde spurgt til muligheden for at se de store sailfish og marlins p&#xE5; et dyk, hvilket vi grinede meget af, da det jo er dybhavsfisk, som ikke ses inde ved revene, men p&#xE5; det n&#xE6;ste dyk, sv&#xF8;mmede der pludselig en stor sailfish lige over hovedet p&#xE5; os - f&#xF8;rste gang i Patricks 10 &#xE5;r som dykkerinstrukt&#xF8;r! Ellers s&#xE5; vi masser af skildpadder, et par hajer og nogle rigtig flotte store stingrays.&#xD;&#xD;Vi er ved at v&#xE6;re f&#xE6;rdige med at pakke alle vores ting ned for andensidste gang.&#xD;&#xD;I morgen flyver vi videre til Aitutaki. Vi m&#xE5; kun have 16 kilo med over p&#xE5; den lille &#xF8;, s&#xE5; der skal sorteres en del. Det er sidste stop p&#xE5; vores lange dr&#xF8;mmerejse, inden vi om en uges tid vender snuden hjemad. M&#xE6;rkeligt at t&#xE6;nke p&#xE5;.&#xD;&#xD;/Tim</richText>
+  </textBox>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:48 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Koalaer</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Jeg har helt glemt at fort&#xE6;lle, at jeg har set Koala bj&#xF8;rne. De er ret lette at finde, for de laver ikke andet end at sidde i et tr&#xE6;, hvor de spiser og sover. De bev&#xE6;ger sig n&#xE6;sten ikke. De spiser nogle blade, der hedder eukalyptus, der har en st&#xE6;rk smag. Jeg har ikke holdt en koala endnu, da de har nogle ret skarpe kl&#xF8;er.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;fredag den 28. december 2007&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="28_Koalaer_files/shapeimage_1.png" left="0px" top="0px" width="496px" height="372px"/>
+</content>

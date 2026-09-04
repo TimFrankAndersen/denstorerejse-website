@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:44 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>K&#xE6;nguruer i Kuranda</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I dag har jeg set min f&#xF8;rste k&#xE6;nguru. Vi har bes&#xF8;gt en lille by, hvor der var sommerfugle, papeg&#xF8;jer, k&#xE6;nguruer og mange andre dyr. Jeg gav k&#xE6;nguruerne mad med h&#xE6;nderne. Man skal holde h&#xE5;nden flad, ligesom n&#xE5;r man fodrer hestene. K&#xE6;nguruerne var lidt sl&#xF8;ve, da vi bes&#xF8;gte dem midt i middagspausen. &#xD;&#xD;PS Jeg har l&#xE6;rt at sl&#xE5; kolb&#xF8;tter i swimmingpoolen, det er rigtig sjovt.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;mandag den 3. december 2007&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="3_Knguruer_i_Kuranda_files/shapeimage_1.png" left="0px" top="0px" width="516px" height="348px"/>
+</content>

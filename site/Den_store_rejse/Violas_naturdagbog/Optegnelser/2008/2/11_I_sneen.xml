@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:56 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>I sneen </richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I dag har jeg fl&#xF8;jet i helikopter op til sneen. Underligt at vi stod i varmen, og s&#xE5; fl&#xF8;j op til sneen. Jeg ville slet ikke ned igen, for jeg savner at lege med sne. P&#xE5; vej ned lavede piloten nogle vilde sving, men det var helt ok med mig. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;mandag den 11. februar 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="11_I_sneen_files/shapeimage_1.png" left="0px" top="0px" width="496px" height="372px"/>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:12 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Aoraki - Mount Cook</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Lyden af sommer</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mandag den 21. januar 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="21_Lyden_af_sommer_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Jeg ligger med n&#xE6;sen pegende mod himlen. P&#xE5; en lettere afsvedet gr&#xE6;smark. Den varme t&#xF8;rre bjergluft er behagelig. Hvis jeg gider at &#xE5;bne &#xF8;jnene, kan jeg se det snekl&#xE6;dte Mount Cook t&#xE5;rne sig op i det fjerne, sammen med resten af bjergmassivet, der bringer minder frem om Matterhorn i Italien. men det gider jeg ikke. I stedet koncentrerer jeg mig om at lytte til stilheden. Langsomt dukker der masser af sm&#xE5; fuglestemmer op, blandet med lyden fra summende insekter. For mig er det lyden af sommer. Her dufter dejligt af grann&#xE5;le, og vi er helt alene. N&#xE6;sten. Lydbilledet bliver af og til afbrudt af en lettende eller landende helikopter. For Glentanner Park Centre, hvor vi har sl&#xE5;et lejr, er udgangspunktet for de mange sceniske flyveture til bjergene og gletcherne i n&#xE6;rheden. F.eks. Tasman Gletcheren, der med sine 29 kms l&#xE6;ngde, 2.5 kms dybde og nogle steder 3 kms bredde, er verdens st&#xF8;rste gletcher. Her vil vi op og g&#xE5; tur i eftermiddag, n&#xE5;r Stella er v&#xE5;gnet, og vi har f&#xE5;et hvilet os. P&#xE5; en gr&#xE6;smark i 670 meters h&#xF8;jde. Med udsigt til snekl&#xE6;dte tinder, og lyden af sommer i luften.&#xD;&#xD;/Tim</richText>
+  </textBox>
+</content>

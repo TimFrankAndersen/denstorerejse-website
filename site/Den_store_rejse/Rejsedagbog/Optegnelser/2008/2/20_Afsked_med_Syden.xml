@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:22 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Picton - Wellington</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Afsked med Syd&#xF8;en</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>onsdag den 20. februar 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="20_Afsked_med_Syden_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Camilla og jeg v&#xE5;gner kl. 3 om natten ved at den st&#xF8;rste fuldm&#xE5;ne lyser hele bilen op. Vi er parkeret f&#xE5; meter fra vandet i Momorangi Bay, et lille sted midt p&#xE5; The Scenic Route mellem Picton og Havelock. Der er stjerneklart og s&#xF8;en spejler m&#xE5;nen og de omkringliggende bakker. &#xD;&#xD;Vi falder i s&#xF8;vn igen og v&#xE5;gner til det klareste solskin. Der er ingen vind og vandet er krystalklart. Tid til morgendukkert inden vi pakker sammen og tager tilbage til Picton og f&#xE6;rgen, der skal sejle os til Wellington og nord&#xF8;en. Det er vores sidste dag p&#xE5; her p&#xE5; syd&#xF8;en, og vi er lidt melankolske, for vore fem uger her, har v&#xE6;ret helt utrolige. Men det gode vejr f&#xE5;r gang i hum&#xF8;ret og snart er vi p&#xE5; vej mod nye eventyr.&#xD;&#xD;F&#xE6;rgen bugter sig gennem det smukke Marlborough sound, f&#xF8;r vi kommer ud p&#xE5; &#xE5;bent hav. Der er 19 km mellem de to &#xF8;er, og der st&#xE5;r n&#xE6;sten altid en god s&#xF8;. Det er relativt stille i dag, men alligevel m&#xE6;rkes de lange rulninger.&#xD;Efter 4 timers sejlads, er vi fremme. &#xD;&#xD;Vi vil gerne ind og se hovedstaden og det store Tepapa museum, s&#xE5; vi k&#xF8;rer til den n&#xE6;rmeste Top Ten Campingplads, 13 km fra centrum. Her er turens f&#xF8;rste hoppepude og en enorm legeplads, s&#xE5; resten af dagen f&#xE5;r pigerne lov at boltre sig p&#xE5; diverse legeredskaber.&#xD;&#xD;/Tim</richText>
+  </textBox>
+</content>

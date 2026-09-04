@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:25:51 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Great Barrier Reef</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>troels&#xB4; stjernehimmel</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>torsdag den 22. november 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_troels_stjernehimmel_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Kl. er ca. 22, og vi har efter middag og quizz, som vi vandt sammen med vores amerikanske cruisepalls, v&#xE6;ret oppe p&#xE5; d&#xE6;kket for at kigge p&#xE5; stjernehimmelen. Vi ligger langt fra kysten ude p&#xE5; revet. M&#xE5;nen, der n&#xE6;sten er fuld spejler sig i det sorte hav. Vi kan tydeligt se Orion mod nattehimmelen. Man f&#xF8;ler sig lillebitte i det store univers, og enormt lykkelig over at man f&#xE5;r lov til at opleve verden p&#xE5; denne m&#xE5;de. Tankerne flyver til Nordkaperen, og Kl&#xF8;vedals stjernenavigation, til min veninde Karen, der har boet 10 &#xE5;r p&#xE5; dette k&#xE6;mpekontinent, som det er sv&#xE6;rt for os at begribe st&#xF8;rrelsen af. &#xD;At opleve en stjernehimmel p&#xE5; havet t&#xE6;nder l&#xE6;ngslen i ethvert menneske, og i takt med b&#xE5;dens sagte rullen dr&#xF8;mmer man s&#xE6;re dr&#xF8;mme om fjerne horisonter og om de derhjemme - jeg har f&#xE5;et dykkerhjerne....&#xD;&#xD;Om nogle dage efter fuldm&#xE5;ne formerer korallerne sig. Det skulle v&#xE6;re en undervands festfyrv&#xE6;rkeri, som vi h&#xE5;ber at kunne opleve.&#xD;&#xD;</richText>
+  </textBox>
+</content>

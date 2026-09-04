@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:25:59 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Yulara</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Uluru og Kata Tjuta</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>onsdag den 12. december 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_Uluru_og_Kata_Tjuta_files/shapeimage_1.png" left="0px" top="0px" width="339px" height="394px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Det regner rimelig meget, men det skal jo ikke forhindre os i, at tage ud og se de store sten i omr&#xE5;det. Vi har jo godt regnt&#xF8;j med hjemmefra og vi er ikke rejst s&#xE5; langt for at lidt vand fraoven skal spolere en stor naturoplevelse.&#xD;&#xD;Alting er st&#xF8;rre her i Australien. Vi k&#xF8;rer ind i nationalparken ved at betale 350 kr. for adgangen og konstaterer at der er 10 km til Uluru (Ayers rock) og 50 km til kata Tjuta (The Olgas) - godt nok en stor nationalpark. Vi k&#xF8;rer videre til Uluru, og bliver m&#xF8;dt af et formentlig ret sj&#xE6;ldent syn. Ned fra toppen af klippen st&#xE5;r det ene store vandfald efter det andet. Vi parkerer og begiver os til fods langs klippen. P&#xE5; grund af pigerne kan vi ikke g&#xE5; hele vejen rundt, men vi v&#xE6;lger en af de mange vandreture, og det er virkelig smukt og overv&#xE6;ldende. klippen er bare enorm. Der er huler og huller, helligdomme og mystiske fremspring. Her er gr&#xF8;nt pga regnen, men selve klippen ser ud som om den er bekl&#xE6;dt med rustne metalplader. og vandet der st&#xE5;r i kaskader ned fra toppen er det mest imponerende. af samme grund er der lukket for muligheden for at kravle op p&#xE5; toppen - noget de oprindelige ejere ogs&#xE5; gene vil v&#xE6;re fri for. Det svarer lidt til at rapelle ned fra alteret i Vor Frue kirke. Vi g&#xE5;r i nogle timer og k&#xF8;rer s&#xE5; hjem for at slappe lidt af og spise frokost.&#xD;&#xD;Sidst p&#xE5; dagen er det klaret op. Vi k&#xF8;rer derfor den lange vej til The Olgas og g&#xE5;r endnu en dejlig tur, denne gang i solskin. Det hele er bare enormt stort, og vi n&#xE5;r kun en br&#xF8;kdel af vandringsmulighederne. Men vi forst&#xE5;r hvorfor den originale befolkning opfatter de store sten som helligdomme og som noget meget mystisk.&#xD;&#xD;Hjemme igen skal der pakkes. i morgen tidlig flyver vi tilbage til Alice Springs for at hoppe p&#xE5; toget til Adelaide. Vi er tr&#xE6;tte og m&#xE6;tte af indtryk.</richText>
+  </textBox>
+</content>

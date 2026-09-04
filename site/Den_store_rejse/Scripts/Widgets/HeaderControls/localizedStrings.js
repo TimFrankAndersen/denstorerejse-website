@@ -1,0 +1,2 @@
+
+(function(){var strings={};strings['Subscribe']='Abonner';strings['Back to Index']='Tilbage til register';strings['Add Photo']='Tilføj fotografi';strings['Play Slideshow']='Afspil lysbilledshow';RegisterWidgetStrings("com-apple-iweb-widget-headercontrols",strings);})();

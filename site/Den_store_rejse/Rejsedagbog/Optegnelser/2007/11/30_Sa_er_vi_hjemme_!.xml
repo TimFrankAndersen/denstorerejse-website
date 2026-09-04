@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:25:55 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Rejse med b&#xF8;rn 1</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>S&#xE5; er vi &#x201C;hjemme&#x201D; !</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>fredag den 30. november 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_Sa_er_vi_hjemme_%21_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>At rejse med 2 sm&#xE5; b&#xF8;rn er fantastisk, men det har selvf&#xF8;lgelig ogs&#xE5; sine udfordringer. P&#xE5; disse sider vil jeg skrive lidt om vores erfaringer. &#xD;Generelt g&#xE5;r det rigtig fint med b&#xF8;rnene. En nat p&#xE5; et hotelv&#xE6;relse, og s&#xE5; er det deres &#x201C;hjem&#x201D;. Der sker meget, og derfor reagerer de begge p&#xE5; alle oplevelserne. Hver p&#xE5; sin m&#xE5;de, og det pr&#xF8;ver vi s&#xE5; at st&#xF8;tte og hj&#xE6;lpe dem med ved at holde sengetider og lidt ritualer med sange og historier. De har begge en bamse med, og Stella har ogs&#xE5; dyne med. Vi har fors&#xF8;gt at rykke deres d&#xF8;gnrytme en smule, s&#xE5;ledes at de kunne sove senere, og vi dermed havde lidt mere tid p&#xE5; restauranterne, men det g&#xE5;r ikke. De vil sove 19.30 om det s&#xE5; er i Skovshoved eller i den australske regnskov. &#xD;For at f&#xE5; nogenlunde sund mad, har vi fors&#xF8;gt at bestille guler&#xF8;dder, agurker og lignende, men med en m&#xE5;neds buffetmad, er det da ogs&#xE5; blevet til Cocopops, masser af is og de allestedv&#xE6;rende pommes frites. De drikker til geng&#xE6;ld masser af mineralvand og m&#xE6;lk.&#xD; &#xD;Jeg har v&#xE6;ret rigtig glad for min rejsepusletaske fra Gaia &amp; Ko, den er super at have med. Tusser og blokke til restauranterne, til at fordrive ventetiden og iPod Nano til bilturene. Viola h&#xF8;rer MGP i flere timer i tr&#xE6;k. Masser af danske tegnefilm p&#xE5; harddisc til afslapning og til flyveture. &#xD;Vi har et meget fint fotoalbum med fra vuggestuen, og Viola har sine fotografier af familien med, det er et stort hit. &#xD;&#xD;Verden er jo blevet mindre, hvilket betyder at vi er p&#xE5; Skype med familie og venner - med billede og lyd. Og vi har f&#xE5;et den f&#xF8;rste SMS nogensinde fra mormor, s&#xE5; der er masser af muligheder. &#xD; &#xD;Nu er det sengetid, da Stella v&#xE5;gner kl. 6.00. </richText>
+  </textBox>
+</content>

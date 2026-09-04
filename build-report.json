@@ -1,0 +1,38 @@
+{
+ "rewritten_files": 94,
+ "com_urls": 3354,
+ "dk_urls": 52,
+ "dk_mapped": {
+  "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/16_Første_etape_er_slut.html": "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/16_Frste_etape_er_slut.html",
+  "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/13_Koh_Sukorn.html": "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/13_Sknne_dage_pa_Koh_Sukorn.html",
+  "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/11_Koh_Libong_til_Koh_Sukorn.html": "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/11_Fra_Koh_Libong_til_Koh_Sukorn.html",
+  "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/10_Koh_Mook_til_Koh_Libong.html": "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/10_Fra_Koh_Mook_til_Koh_Libong.html",
+  "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/10_Fra_Koh_Mook_til_Emeralds_Cave.html": "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/10_Pa_udflugt_til_Emeralds_Cave.html",
+  "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/12/1_Optegnelse_2.html": "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/12/1_Refleksioner_efter_den_frste_maned.html",
+  "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/30_Så_er_vi_“hjemme”_!.html": "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/30_Sa_er_vi_hjemme_!.html",
+  "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/30_På_tur_med_Martin.html": "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/30_Pa_tur_med_Martin.html",
+  "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/28__regnskoven,_en_skorpion_og_historien_om_en_deporteret_krokodille.html": "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/28_Regnskoven,_en_skorpion_og_historien_om_en_deporteret_krokodille.html",
+  "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/7_Hvor_gammel_skal_man_være_for_at_ro_i_kajak.html": "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/7_Hvor_gammel_skal_man_vre_for_at_ro_i_kajak.html",
+  "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/6_Optegnelse_1.html": "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/6_Farvel_til_familien_Kemp.html",
+  "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/4_på_rundtur_i_the_andaman_sea.html": "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/4_pa_rundtur_i_the_Andaman_Sea_-_Se_vores_billeder_her.html",
+  "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/26_Optegnelse_1.html": "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/26_Steves_Bommie.html",
+  "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/25_Koraller,_en_Stingray,_En_blæksprutte,_en_haj_og_ufattelig_skønhed.html": "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/25_Koraller,_en_Stingray,_En_blksprutte,_en_haj_og_ufattelig_sknhed.html",
+  "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/22_3._dag_på_Coral_Princess.html": "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/22_3._dag_pa_Coral_Princess.html",
+  "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/22_troels´_stjernehimmel.html": "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/22_troels_stjernehimmel.html",
+  "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/21_Anden_dag_på_revet.html": "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/21_Anden_dag_pa_revet.html",
+  "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/20_Første_dag_på_Coral_Princess.html": "/Den_store_rejse/Rejsedagbog/Optegnelser/2007/11/20_Frste_dag_pa_Coral_Princess.html"
+ },
+ "dk_unmapped": [],
+ "mail": 3,
+ "films": [
+  {
+   "file": "MVI_0980.mp4",
+   "bytes": 11302476
+  },
+  {
+   "file": "MVI_0778.mp4",
+   "bytes": 7871446
+  }
+ ],
+ "remaining_host_refs": 3
+}

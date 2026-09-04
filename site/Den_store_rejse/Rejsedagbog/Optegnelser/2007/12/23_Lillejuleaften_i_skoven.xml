@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="E5AE803E-C92F-4AFC-819F-75233B3CF456">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:03 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Great ocean Road </richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Lillejuleaften i skoven</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>s&#xF8;ndag den 23. december 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_Lillejuleaften_i_skoven_files/shapeimage_1.png" left="0px" top="0px" width="418px" height="377px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Det er d. 23. December, og vi sidder her p&#xE5; den anden side af jorden. Det virker som om australierne er taget p&#xE5; sommerferie, og ikke g&#xE5;r s&#xE6;rlig meget op i julen. Det er meget afslappet, og lidt noget andet end alt hall&#xF8;jet hjemme. Vi g&#xE5;r en tur p&#xE5; stranden, hvor vi f&#xE5;r en snak med livredderen. Vandet her er &#xE5;benbart altid kun omkring 14 - 16 grader, s&#xE5; vi n&#xF8;jes med at soppe.&#xD;&#xD;Det er en rigtig god hajs&#xE6;son i &#xE5;r, s&#xE5; vi skal passe lidt p&#xE5;. Der er adskillige farlige arter i farvandet, og hajerne kommer helt ind p&#xE5; en meters vand, men hvis der er en s&#xE6;lkoloni i n&#xE6;rheden skulle man v&#xE6;re rimelig sikret, da de s&#xE5; har rigeligt med mad.&#xD;&#xD;Vi spiser frokost, l&#xE6;gger ungerne og slapper lidt af. Kl. 14.00 drager vi mod regnskoven i vores lejede bil, hvor der skulle v&#xE6;re en dejlig vandretur p&#xE5; en times tid til nogle flotte vandfald. Det viser sig at holde stik. efter en times k&#xF8;rsel og ca. 40 minutter gennem den t&#xE6;tte skov, kommer vi til Cape Otway Triplet Falls. Her er helt troldeagtigt med ekstremt h&#xF8;je og gamle tr&#xE6;er og det smukkeste store vandfald, der kommer i tre etaper (deraf navnet). Endnu en gang m&#xE5; vi konstatere, at de sv&#xE6;rt tilg&#xE6;ngelige bes&#xF8;gspunkter ogs&#xE5; ofte er de mest interessante.&#xD;&#xD;Tilbage i Apollo Bay, der virkelig er en dejlig ferieby, har vi booket bord p&#xE5; en sk&#xF8;n fiskerestaurant. Vi n&#xE5;r det lige, og nyder en god fiskemiddag med lutter lokale specialiteter og med en dejlig udsigt til vandet. Viola og Stella f&#xE5;r en masse muslinger, mens mor og far f&#xE5;r lokal hummer.&#xD;&#xD;Vi pakker, ordner lidt julegaver og ser Harry Potter p&#xE5; DVD. I morgen skal vi m&#xF8;de mormor og morfar Per i Melbourne. Det er lidt underligt at t&#xE6;nke p&#xE5;. Mormor har selvf&#xF8;lglig k&#xF8;bt et lyser&#xF8;dt juletr&#xE6; med til pigerne, s&#xE5; det skal nok blive rigtig jul. </richText>
+  </textBox>
+</content>

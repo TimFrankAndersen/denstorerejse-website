@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:26:58 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Kaniner kan lide broccoli</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vi bor p&#xE5; en legeplads, der ligger helt ud til vandet. Det bl&#xE6;ser s&#xE5; meget at b&#xF8;lgerne sender salt op p&#xE5; vores ruder, s&#xE5; vi n&#xE6;sten ikke kan se ud. &#xD;Der er ikke s&#xE5; mange b&#xF8;rn her, men s&#xE5; har Stella og trampolinen for os selv. Vores nabo er en pige med flot r&#xF8;dt kr&#xF8;llet h&#xE5;r, hun har den samme Barbie som jeg har : Island Princess. Den kan synge, men det er far ikke s&#xE5; vild med. &#xD;Der er masser af s&#xF8;de kaniner, som man gerne m&#xE5; fodre med gammelt broccoli og frugt. Der er ogs&#xE5; vilde kaniner, der l&#xF8;ber rundt. &#xD;&#xD;Mor og far har en masse hemmeligheder, men det er jo ogs&#xE5; snart min f&#xF8;dselsdag..</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;fredag den 29. februar 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="29_Kaniner_kan_lide_broccoli_files/shapeimage_1.png" left="0px" top="0px" width="496px" height="372px"/>
+</content>

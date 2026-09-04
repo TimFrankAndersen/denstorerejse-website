@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7A25D9B-7276-438B-8A49-4DF80FC5A572">
+  <lastEdited clientType="local-build-20120627" date="2012-06-27 10:27:00 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Violas naturdagbog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>En dejlig &#xF8;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Ups det er noget tid siden jeg har skrevet sidst. Vi har slet ikke camperen mere, det er jeg lidt ked af. Jeg skriver nok lidt flere historier om den senere. Nu er vi fl&#xF8;jet til en lille &#xF8; med palmer og kokosn&#xF8;dder. Vi fl&#xF8;j midt om natten, men da vi kom var der musik i lufthavnen, og vi fik blomsterkranse om halsen. &#xD;Her g&#xE5;r alle med blomster - ogs&#xE5; m&#xE6;ndene. Det er Hibiscus blomster og de er r&#xF8;de og lyser&#xF8;de, de er bare s&#xE5; flotte. I dag har jeg l&#xE6;rt at binde en krans til hovedet. &#xD;Jeg bader hele dagen, vandet er varmt og jeg har l&#xE6;rt at sv&#xF8;mme med fr&#xF8;f&#xF8;dder.&#xD;&#xD;Her hedder goddag : Ki Orana, det betyder, vi &#xF8;nsker dig et langt liv. &#xD;&#xD;Jeg er s&#xE5; tr&#xE6;t, s&#xE5; jeg skriver mere i morgen. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;tirsdag den 18. marts 2008&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="18_En_dejlig_files/shapeimage_1.png" left="0px" top="0px" width="496px" height="372px"/>
+</content>
