@@ -1,5 +1,5 @@
 {
- "rewritten_files": 94,
+ "rewritten_files": 294,
  "com_urls": 3354,
  "dk_urls": 52,
  "dk_mapped": {
@@ -24,6 +24,7 @@
  },
  "dk_unmapped": [],
  "mail": 3,
+ "me_com_scripts": 204,
  "films": [
   {
    "file": "MVI_0980.mp4",
@@ -31,7 +32,7 @@
   },
   {
    "file": "MVI_0778.mp4",
-   "bytes": 7871446
+   "bytes": 7871422
   }
  ],
  "remaining_host_refs": 3

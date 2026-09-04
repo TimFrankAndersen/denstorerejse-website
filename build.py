@@ -15,6 +15,8 @@ Everything this script does is a small, explicit fix on top of that copy:
    MP4 files converted from the original AVIs (macOS avconvert).
 5. Root and Den_store_rejse/ index pages point at Velkommen.html with a
    root-relative meta refresh (vercel.json adds real 301s on top).
+6. The dead MobileMe comment script (http://www.me.com, service closed 2012) is
+   removed from the 204 blog pages; https would block it anyway.
 """
 import os, re, shutil, subprocess, sys, unicodedata, urllib.parse, json
 
@@ -101,6 +103,10 @@ def rewrite(rel, txt):
     txt = DK.sub(fix_dk, txt)
     n_mail = txt.count("denstorerejse.dk"); report["mail"] += n_mail
     txt = txt.replace("hej@denstorerejse.dk", "hej@denstorerejse.com")
+    # 6. MobileMe comment script (service closed 2012): dead http:// reference that https blocks
+    n_me = txt.count('src="http://www.me.com/1/up/comments/scripts/search.js"')
+    report["me_com_scripts"] = report.get("me_com_scripts", 0) + n_me
+    txt = txt.replace('<script type="text/javascript" src="http://www.me.com/1/up/comments/scripts/search.js"></script>', "")
     if rel.endswith("Film_files/Film.js"):
         txt = fix_film_js(txt)
     if rel in ("index.html", "Den_store_rejse/index.html"):
