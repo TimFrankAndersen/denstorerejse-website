@@ -2,3 +2,5 @@
 *.AVI
 node_modules/
 .vercel/
+.vercel
+.env*
