@@ -17,6 +17,9 @@ Everything this script does is a small, explicit fix on top of that copy:
    root-relative meta refresh (vercel.json adds real 301s on top).
 6. The dead MobileMe comment script (http://www.me.com, service closed 2012) is
    removed from the 204 blog pages; https would block it anyway.
+7. The iWeb Google Map widget on Krabi.html and Fraser_island.html loaded its map
+   through MobileMe (dead since 2012, frames were empty). Replaced with an
+   OpenStreetMap embed of the same size, centre, zoom and marker.
 """
 import os, re, shutil, subprocess, sys, unicodedata, urllib.parse, json
 
@@ -81,20 +84,66 @@ def fix_dk(mo):
 DK = re.compile(r"https?://(www\.)?denstorerejse\.dk(/[^\"'<> )#]*)")
 COM = re.compile(r"https?:(?:\\/\\/|//)(?:www\.)?denstorerejse\.com")
 
-VIDEO_TMPL = ("<video controls preload=\"metadata\" width=\"{w}\" height=\"{h}\" "
-              "poster=\"Film_files/{name}.jpg\" style=\"width:{w}px;height:{h}px;\">"
-              "<source src=\"Media/{name}.mp4\" type=\"video/mp4\" />"
-              "</video>")
+MOVIES = []   # (source path in SRC, target mp4 path in OUT) collected while rewriting, converted in main()
 
 def fix_film_js(txt):
-    # each writeMovieN() has three document.write branches; replace whole function bodies
+    """Replace every iWeb writeMovieN() (QuickTime <object>, three browser branches) with
+    a <video> tag when the original movie file exists, else with its poster image."""
     def repl(mo):
-        n = mo.group(1)
-        name, w, h = {"1": ("MVI_0980", 300, 241), "2": ("MVI_0778", 305, 245)}[n]
-        return ("function writeMovie%s()\n{document.write('%s');}\n"
-                % (n, VIDEO_TMPL.format(name=name, w=w, h=h)))
+        n, body = mo.group(1), mo.group(0)
+        src = re.search(r'name="src" value="(Media/[^"]+)"', body).group(1)     # e.g. Media/MVI_0980.AVI
+        w, h = re.search(r'width="(\d+)" height="(\d+)"', body).groups()
+        style = re.search(r'style="([^"]*)"', body).group(1)
+        poster = re.search(r'value="([^"]*_files/[^"]+\.jpg)"', body)
+        poster = poster.group(1) if poster else ""
+        name = os.path.splitext(os.path.basename(src))[0]
+        avi = os.path.join(SRC, "Den_store_rejse", src)
+        if os.path.exists(avi):
+            MOVIES.append((avi, os.path.join(OUT, "Den_store_rejse/Media", name + ".mp4")))
+            html = ('<video controls preload="metadata" width="%s" height="%s" poster="%s" style="%s">'
+                    '<source src="Media/%s.mp4" type="video/mp4" /></video>' % (w, h, poster, style, name))
+        else:
+            # movie was never uploaded to the host (404 on the old site too): show the still instead
+            html = '<img src="%s" alt="" width="%s" height="%s" style="%s" />' % (poster, w, h, style)
+            report.setdefault("movies_missing_shown_as_still", []).append(src)
+        return "function writeMovie%s()\n{document.write('%s');}\n" % (n, html)
     # each function body ends with the IE/other/else branches closing: "');}}\n"
-    return re.sub(r"function writeMovie([12])\(\)\n\{.*?\}\}\n", repl, txt, flags=re.S)
+    return re.sub(r"function writeMovie(\d+)\(\)\n\{.*?\}\}\n", repl, txt, flags=re.S)
+
+# ---------- 7. iWeb Google Map widget (served via MobileMe, dead) -> OpenStreetMap embed ----------
+import math
+
+def osm_bbox(lat, lon, zoom, w, h):
+    """Web-mercator bounding box (minlon,minlat,maxlon,maxlat) for a w×h px map at zoom around lat/lon."""
+    n = 256 * 2 ** zoom
+    x = (lon + 180) / 360 * n
+    y = (1 - math.log(math.tan(math.radians(lat)) + 1 / math.cos(math.radians(lat))) / math.pi) / 2 * n
+    def to_lon(px): return px / n * 360 - 180
+    def to_lat(py): return math.degrees(math.atan(math.sinh(math.pi * (1 - 2 * py / n))))
+    return to_lon(x - w / 2), to_lat(y + h / 2), to_lon(x + w / 2), to_lat(y - h / 2)
+
+def fix_maps(txt):
+    m = re.search(r"new GoogleMap\('(widget\d+)'.*?(\{.*?\})\);", txt, re.S)
+    if not m:
+        return txt
+    wid, cfg = m.group(1), json.loads(m.group(2))
+    div = re.search(r'<div class="com-apple-iweb-widget-GoogleMap[^"]*" id="%s" style="([^"]*)"></div>' % wid, txt)
+    w = int(re.search(r"width: (\d+)px", div.group(1)).group(1))
+    h = int(re.search(r"height: (\d+)px", div.group(1)).group(1))
+    lat, lon = map(float, cfg["center"].split(","))
+    mlat, mlon = map(float, cfg.get("locatedAddressPoint", cfg["center"]).split(","))
+    minlon, minlat, maxlon, maxlat = osm_bbox(lat, lon, int(cfg["zoomLevel"]), w, h)
+    bbox = "%.5f,%.5f,%.5f,%.5f" % (minlon, minlat, maxlon, maxlat)
+    if not (minlat <= mlat <= maxlat and minlon <= mlon <= maxlon):
+        mlat, mlon = lat, lon           # geocoded point is off-map (Krabi): mark the centre instead
+    iframe = ('<iframe title="Kort: %s" src="https://www.openstreetmap.org/export/embed.html?bbox=%s&amp;layer=mapnik&amp;marker=%.5f,%.5f" '
+              'style="width:100%%;height:100%%;border:0;display:block;" loading="lazy"></iframe>'
+              % (cfg.get("locatedAddress", ""), bbox, mlat, mlon))
+    txt = txt.replace(div.group(0), div.group(0)[:-len("</div>")] + iframe + "</div>")
+    # drop the widget bootstrap (would try to load the dead MobileMe map frame)
+    txt = re.sub(r"<script type=\"text/javascript\"><!--//--><!\[CDATA\[//><!--\s*new GoogleMap\('%s'.*?//--><!\]\]></script>" % wid, "", txt, flags=re.S)
+    report["maps"] = report.get("maps", 0) + 1
+    return txt
 
 def rewrite(rel, txt):
     before = txt
@@ -107,8 +156,10 @@ def rewrite(rel, txt):
     n_me = txt.count('src="http://www.me.com/1/up/comments/scripts/search.js"')
     report["me_com_scripts"] = report.get("me_com_scripts", 0) + n_me
     txt = txt.replace('<script type="text/javascript" src="http://www.me.com/1/up/comments/scripts/search.js"></script>', "")
-    if rel.endswith("Film_files/Film.js"):
+    if rel.endswith(".js") and "function writeMovie" in txt:
         txt = fix_film_js(txt)
+    if rel.endswith(".html") and "new GoogleMap(" in txt:
+        txt = fix_maps(txt)
     if rel in ("index.html", "Den_store_rejse/index.html"):
         txt = re.sub(r'content="0;url=[^"]*"', 'content="0;url=/Den_store_rejse/Velkommen.html"', txt)
     if txt != before:
@@ -132,17 +183,14 @@ def main():
                 open(dst, "w", encoding="utf-8", errors="surrogateescape").write(txt)
             else:
                 shutil.copy2(src, dst)
-    # 4. films
-    for name in ("MVI_0980", "MVI_0778"):
-        avi = os.path.join(SRC, "Den_store_rejse/Media", name + ".AVI")
-        mp4 = os.path.join(OUT, "Den_store_rejse/Media", name + ".mp4")
-        if os.path.exists(avi):
-            # avconvert insists on an .m4v extension; the container is plain MP4, so rename afterwards
-            tmp = mp4[:-4] + ".m4v"
-            subprocess.run(["avconvert", "--preset", "PresetAppleM4V480pSD", "--source", avi, "--output", tmp],
-                           check=True, capture_output=True)
-            os.replace(tmp, mp4)
-            report.setdefault("films", []).append({"file": name + ".mp4", "bytes": os.path.getsize(mp4)})
+    # 4. films (collected by fix_film_js while rewriting the page scripts)
+    for avi, mp4 in sorted(set(MOVIES)):
+        # avconvert insists on an .m4v extension; the container is plain MP4, so rename afterwards
+        tmp = mp4[:-4] + ".m4v"
+        subprocess.run(["avconvert", "--preset", "PresetAppleM4V480pSD", "--source", avi, "--output", tmp],
+                       check=True, capture_output=True)
+        os.replace(tmp, mp4)
+        report.setdefault("films", []).append({"file": os.path.basename(mp4), "bytes": os.path.getsize(mp4)})
     # leftover check: any denstorerejse.com/.dk host references
     left = 0
     for dp, dn, fn in os.walk(OUT):

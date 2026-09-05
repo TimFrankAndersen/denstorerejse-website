@@ -1,5 +1,5 @@
 {
- "rewritten_files": 294,
+ "rewritten_files": 296,
  "com_urls": 3354,
  "dk_urls": 52,
  "dk_mapped": {
@@ -25,14 +25,18 @@
  "dk_unmapped": [],
  "mail": 3,
  "me_com_scripts": 204,
+ "maps": 2,
+ "movies_missing_shown_as_still": [
+  "Media/MOV01018.MPG"
+ ],
  "films": [
+  {
+   "file": "MVI_0778.mp4",
+   "bytes": 7871446
+  },
   {
    "file": "MVI_0980.mp4",
    "bytes": 11302476
-  },
-  {
-   "file": "MVI_0778.mp4",
-   "bytes": 7871422
   }
  ],
  "remaining_host_refs": 3
