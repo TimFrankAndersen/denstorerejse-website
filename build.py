@@ -20,6 +20,8 @@ Everything this script does is a small, explicit fix on top of that copy:
 7. The iWeb Google Map widget on Krabi.html and Fraser_island.html loaded its map
    through MobileMe (dead since 2012, frames were empty). Replaced with an
    OpenStreetMap embed of the same size, centre, zoom and marker.
+8. Page includes of .js/.css get a ?v=<hash of this script> query so browser caches
+   (vercel.json: one day) pick up rebuilt scripts immediately.
 """
 import os, re, shutil, subprocess, sys, unicodedata, urllib.parse, json
 
@@ -28,6 +30,9 @@ SRC = sys.argv[1] if len(sys.argv) > 1 else os.path.expanduser(
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "site")
 TEXT = (".html", ".htm", ".js", ".xml", ".css")
 SKIP = (".AVI", ".DS_Store")
+
+import hashlib
+BUILD_VERSION = hashlib.sha1(open(os.path.abspath(__file__), "rb").read()).hexdigest()[:8]   # changes whenever this script changes
 
 report = {"rewritten_files": 0, "com_urls": 0, "dk_urls": 0, "dk_mapped": {}, "dk_unmapped": [], "mail": 0}
 
@@ -103,8 +108,16 @@ def fix_film_js(txt):
             html = ('<video controls preload="metadata" width="%s" height="%s" poster="%s" style="%s">'
                     '<source src="Media/%s.mp4" type="video/mp4" /></video>' % (w, h, poster, style, name))
         else:
-            # movie was never uploaded to the host (404 on the old site too): show the still instead
-            html = '<img src="%s" alt="" width="%s" height="%s" style="%s" />' % (poster, w, h, style)
+            # movie was never uploaded to the host (404 on the old site too): show the still instead,
+            # with the same 4px white frame iWeb draws around the neighbouring photos (stroke_N parts
+            # are 4px, centred on the edge, so the frame sticks 2px outside the box: shift by -2px)
+            iw, ih = int(w) - 4, int(h) - 4
+            style = re.sub(r"margin: (\d+)px (\d+)px (\d+)px (\d+)px",
+                           lambda m: "margin: %dpx %dpx %dpx %dpx" % (int(m.group(1)) - 2, int(m.group(2)) - 2, int(m.group(3)) - 2, int(m.group(4)) - 2), style)
+            style = re.sub(r"height: \d+px", "height: %dpx" % ih, style)
+            style = re.sub(r"width: \d+px", "width: %dpx" % iw, style)
+            html = ('<img src="%s" alt="" width="%d" height="%d" style="%s border: 4px solid #fff; box-sizing: content-box;" />'
+                    % (poster, iw, ih, style))
             report.setdefault("movies_missing_shown_as_still", []).append(src)
         return "function writeMovie%s()\n{document.write('%s');}\n" % (n, html)
     # each function body ends with the IE/other/else branches closing: "');}}\n"
@@ -160,6 +173,10 @@ def rewrite(rel, txt):
         txt = fix_film_js(txt)
     if rel.endswith(".html") and "new GoogleMap(" in txt:
         txt = fix_maps(txt)
+    if rel.endswith(".html"):
+        # 8. cache-busting: vercel.json caches .js/.css for a day; version the page includes so a
+        #    rebuilt script (e.g. Tim.js) is picked up immediately instead of after 24 h
+        txt = re.sub(r'((?:src|href)=["\'][^"\':]+\.(?:js|css))(["\'])', r"\1?v=%s\2" % BUILD_VERSION, txt)
     if rel in ("index.html", "Den_store_rejse/index.html"):
         txt = re.sub(r'content="0;url=[^"]*"', 'content="0;url=/Den_store_rejse/Velkommen.html"', txt)
     if txt != before:
